@@ -1,0 +1,6 @@
+- [ ] NMap
+- [ ] Snort
+- [ ] Wireshark
+- [ ] Fiddler
+- [ ] PortMaster
+- [ ] Nord VPN
