@@ -11,8 +11,12 @@
             "id": "b311fbe43027f4cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "areas/dashboard/todo-queries.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "areas/dashboard/todo-queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "areas/dashboard/todo-queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "areas/dashboard/todo-queries.md"
+              }
             }
           },
           {
@@ -150,6 +158,16 @@
   },
   "active": "b311fbe43027f4cb",
   "lastOpenFiles": [
+    "areas/work/freelance-services.md",
+    "areas/dashboard/todo-queries.md",
+    "areas/dashboard",
+    "areas/work/upwork.md",
+    "areas/gaming/steam-password-reset.md",
+    "areas/engineering/todo.md",
+    "areas/gaming",
+    "projects/json-resume/todo.md",
+    "areas/engineering",
+    "projects/json-resume",
     "resources/project-ideas/json-annotations-plugin.md",
     "resources/Temp Creds.mdenc",
     "resources/project-ideas",
@@ -160,11 +178,7 @@
     "projects",
     "areas/work/profiles/public.md",
     "areas/work/profiles/first.md",
-    "areas/work/profiles",
-    "areas/work",
     "areas/online/design-debacles/edge.md",
-    "areas/online/design-debacles",
-    "areas/online",
     "Welcome.md",
     "README.md"
   ]
