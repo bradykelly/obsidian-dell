@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/work/profiles/Introductions.md",
+                "file": "resources/project-ideas/json-annotations-plugin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/work/profiles/Introductions.md",
+                "file": "resources/project-ideas/json-annotations-plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/work/profiles/Introductions.md",
+                "file": "resources/project-ideas/json-annotations-plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/work/profiles/Introductions.md"
+                "file": "resources/project-ideas/json-annotations-plugin.md"
               }
             }
           },
@@ -156,20 +156,23 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "312b1d8a8e3a3501",
+  "active": "b311fbe43027f4cb",
   "lastOpenFiles": [
+    "areas/online/design-debacles/edge.md",
+    "resources/project-ideas/json-annotations-plugin.md",
+    "resources/project-ideas",
+    "areas/work/profiles/public.md",
+    "areas/online/design-debacles",
+    "areas/online",
+    "areas/work/profiles/first.md",
     "resources/Temp Creds.mdenc",
-    "areas/work/profiles/Introductions.md",
     "areas/work/profiles",
     "areas/work",
-    "projects/Untitled",
+    "areas/work/Untitled",
     "resources/Notes.mdenc",
     "Welcome.md",
     "areas/tech/dell-5620",
     "areas/tech",
-    "areas",
-    "projects/dell-5620/nb-todo.md",
-    "resources/Untitled",
-    "resources"
+    "projects/dell-5620/nb-todo.md"
   ]
 }
