@@ -11,9 +11,11 @@
             "id": "2c76e79dcfe5fffb",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "resources/stuff.mdenc"
+                "file": "areas/household/security/todo.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/stuff.mdenc",
+                "file": "areas/household/security/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/stuff.mdenc",
+                "file": "areas/household/security/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/stuff.mdenc"
+                "file": "areas/household/security/todo.md"
               }
             }
           },
@@ -156,10 +158,16 @@
   },
   "active": "2c76e79dcfe5fffb",
   "lastOpenFiles": [
-    "projects/dell-5620/must-install.md",
-    "resources/stuff.mdenc",
-    "areas/dashboard/todo-queries.md",
+    "areas/money/todo.md",
+    "areas/household/security/todo.md",
     "areas/work/freelance-services.md",
+    "projects/dell-5620/must-install.md",
+    "areas/dashboard/todo-queries.md",
+    "areas/household/security",
+    "areas/household/strange-things.md",
+    "areas/money",
+    "resources/stuff.mdenc",
+    "areas/household",
     "areas/dashboard",
     "areas/work/upwork.md",
     "areas/gaming/steam-password-reset.md",
@@ -171,9 +179,6 @@
     "resources/project-ideas/json-annotations-plugin.md",
     "resources/Temp Creds.mdenc",
     "resources/project-ideas",
-    "resources/Notes.mdenc",
-    "resources",
-    "projects/dell-5620",
     "areas/work/profiles/public.md",
     "areas/work/profiles/first.md",
     "areas/online/design-debacles/edge.md",
