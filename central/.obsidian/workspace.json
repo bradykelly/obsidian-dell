@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/professional/interests.md",
-                "mode": "source",
+                "file": "areas/dashboard/todo-queries.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/professional/interests.md",
+                "file": "areas/dashboard/todo-queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/professional/interests.md",
+                "file": "areas/dashboard/todo-queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/professional/interests.md"
+                "file": "areas/dashboard/todo-queries.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "c3c329da69839fb9",
   "lastOpenFiles": [
-    "areas/money/todo.md",
+    "areas/tech/dell-5620/todo.md",
     "resources/professional/interests.md",
+    "areas/money/todo.md",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "resources/professional",
     "resources/Untitled.canvas",
