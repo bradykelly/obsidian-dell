@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/json-resume/resources.md",
+                "file": "projects/portfolio/json-resume/resources.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c3c329da69839fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/professional/interests.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "goca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "right": {
     "id": "eb1f7e2ec5c39db9",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/json-resume/resources.md",
+                "file": "resources/professional/interests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/json-resume/resources.md",
+                "file": "resources/professional/interests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/json-resume/resources.md"
+                "file": "resources/professional/interests.md"
               }
             }
           },
@@ -142,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,12 +169,22 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "2c76e79dcfe5fffb",
+  "active": "c3c329da69839fb9",
   "lastOpenFiles": [
-    "areas/household/security/todo.md",
-    "projects/json-resume/resources.md",
-    "projects/json-resume/Untitled",
     "areas/money/todo.md",
+    "resources/professional/interests.md",
+    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+    "resources/professional",
+    "resources/Untitled.canvas",
+    "resources/work-history/freelance-as-erisia.md",
+    "projects/portfolio/json-resume/resources.md",
+    "projects/portfolio/work-history",
+    "projects/portfolio/json-resume/todo.md",
+    "resources/encryption-key-whatsapp-biz.md",
+    "projects/portfolio/json-resume",
+    "resources/professional/work-history",
+    "areas/household/security/todo.md",
+    "projects/json-resume/Untitled",
     "areas/work/freelance-services.md",
     "projects/dell-5620/must-install.md",
     "areas/dashboard/todo-queries.md",
@@ -174,12 +197,7 @@
     "areas/work/upwork.md",
     "areas/gaming/steam-password-reset.md",
     "areas/engineering/todo.md",
-    "areas/gaming",
-    "projects/json-resume/todo.md",
-    "areas/engineering",
-    "projects/json-resume",
     "resources/project-ideas/json-annotations-plugin.md",
-    "resources/Temp Creds.mdenc",
     "areas/work/profiles/public.md",
     "areas/work/profiles/first.md",
     "areas/online/design-debacles/edge.md",
