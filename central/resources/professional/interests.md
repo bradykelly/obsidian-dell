@@ -71,4 +71,46 @@ Certainly! When discussing the automation of information services in general, se
 These terms broadly cover various aspects of automating information services, including software development, data handling, AI, and operational processes.
 
 ### Automation in Software Engineering
-		- [ ] Get keywords from ChatGPT 🔺📅 2024-01-23 ➕ 2024-01-23 
+In the realm of software engineering, particularly focusing on automation related to programming and static code analysis, several key terms and concepts are widely recognized:
+
+1. **Continuous Integration/Continuous Deployment (CI/CD)**: Automated processes for consistently integrating, testing, and deploying code changes.
+
+2. **Static Code Analysis**: Automated analysis of source code to identify bugs, security vulnerabilities, and adherence to coding standards without executing the program.
+
+3. **Unit Testing**: Automated tests that validate the functionality of individual components or units of source code.
+
+4. **Code Linters**: Tools that automatically check source code for stylistic errors and deviations from coding standards.
+
+5. **Automated Code Review Tools**: Tools that automatically review code for complexity, potential errors, and adherence to best practices.
+
+6. **Build Automation**: Using tools to automate the creation of executable applications from source code.
+
+7. **Dependency Management**: Automated tools and practices for managing software dependencies and ensuring consistent, up-to-date, and secure use of libraries.
+
+8. **Test-Driven Development (TDD)**: A programming approach where tests are written before the code, driving the development process.
+
+9. **Behavior-Driven Development (BDD)**: Extending TDD practices, focusing on the behavioral specification of software units.
+
+10. **Code Refactoring**: The automated process of restructuring existing computer code without changing its external behavior.
+
+11. **Automated Deployment**: Tools and practices for automatically deploying applications to production or staging environments.
+
+12. **Configuration Management**: Tools for automating the deployment, configuration, and ongoing management of software across various environments.
+
+13. **Security Scanning**: Automated tools that scan code for security vulnerabilities and compliance issues.
+
+14. **Code Coverage**: Tools that measure the extent to which the source code is executed during testing, aiming to cover every possible path and condition.
+
+15. **Version Control Systems (VCS)**: Automated systems for tracking changes in source code during software development, like Git.
+
+16. **Infrastructure as Code (IaC)**: Managing and provisioning infrastructure through code instead of through manual processes.
+
+17. **Automated Performance Testing**: Using tools to automatically test the performance and load capacity of applications.
+
+18. **DevSecOps**: Integrating security practices within the DevOps process in an automated and continuous way.
+
+19. **Containerization & Orchestration**: Technologies like Docker and Kubernetes for automating the deployment and scaling of applications in containerized environments.
+
+20. **Code Duplication Analysis**: Tools that automatically detect duplicate code which can lead to increased maintenance costs and potential bugs.
+
+These terms and concepts are central to modern practices in software engineering, particularly in the context of automating the development, analysis, testing, and deployment of software.

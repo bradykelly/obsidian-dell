@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/dashboard/todo-queries.md",
-                "mode": "preview",
+                "file": "resources/professional/interests.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/dashboard/todo-queries.md",
+                "file": "resources/professional/interests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/dashboard/todo-queries.md",
+                "file": "resources/professional/interests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/dashboard/todo-queries.md"
+                "file": "resources/professional/interests.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "c3c329da69839fb9",
   "lastOpenFiles": [
+    "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
     "resources/professional/interests.md",
     "areas/money/todo.md",
@@ -188,7 +189,6 @@
     "projects/json-resume/Untitled",
     "areas/work/freelance-services.md",
     "projects/dell-5620/must-install.md",
-    "areas/dashboard/todo-queries.md",
     "areas/household/security",
     "areas/household/strange-things.md",
     "areas/money",
