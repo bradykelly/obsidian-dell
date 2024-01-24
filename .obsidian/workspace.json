@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/professional/interests.md",
+                "file": "resources/obsidian-templates/fucked-around-journal.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/professional/interests.md",
+                "file": "resources/obsidian-templates/fucked-around-journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/professional/interests.md",
+                "file": "resources/obsidian-templates/fucked-around-journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/professional/interests.md"
+                "file": "resources/obsidian-templates/fucked-around-journal.md"
               }
             }
           },
@@ -171,9 +171,15 @@
   },
   "active": "c3c329da69839fb9",
   "lastOpenFiles": [
+    "journals/being-fucked-around/daily-journal.md",
+    "resources/obsidian-templates/fucked-around-journal.md",
+    "resources/obsidian-templates",
+    "Welcome.md",
+    "resources/professional/interests.md",
+    "journals/being-fucked-around",
+    "journals",
     "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
-    "resources/professional/interests.md",
     "areas/money/todo.md",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "resources/professional",
@@ -192,9 +198,6 @@
     "areas/household/security",
     "areas/household/strange-things.md",
     "areas/money",
-    "resources/stuff.mdenc",
-    "areas/household",
-    "areas/dashboard",
     "areas/work/upwork.md",
     "areas/gaming/steam-password-reset.md",
     "areas/engineering/todo.md",
@@ -202,7 +205,6 @@
     "areas/work/profiles/public.md",
     "areas/work/profiles/first.md",
     "areas/online/design-debacles/edge.md",
-    "Welcome.md",
     "README.md"
   ]
 }
