@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a471b31889ac2e3",
+        "id": "2d53e431ed1b9e08",
         "type": "tabs",
         "children": [
           {
-            "id": "636c5cf217a9f755",
+            "id": "5a4e492c312bd1de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "meld-encrypted-file-content-view",
+              "state": {
+                "file": "resources/keys/managers.mdenc"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goca",
+                "query": "master",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "resources/keys/managers.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "resources/keys/managers.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "resources/keys/managers.mdenc"
+              }
             }
           },
           {
@@ -149,7 +155,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "312b1d8a8e3a3501",
+  "active": "5a4e492c312bd1de",
   "lastOpenFiles": [
     "resources/keys/managers.mdenc",
     "resources/obsidian-templates/fucked-around-journal.md",
