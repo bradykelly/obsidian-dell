@@ -11,9 +11,11 @@
             "id": "5a4e492c312bd1de",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "resources/keys/managers.mdenc"
+                "file": "journals/betrayed/thoughts.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/managers.mdenc",
+                "file": "journals/betrayed/thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/managers.mdenc",
+                "file": "journals/betrayed/thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/managers.mdenc"
+                "file": "journals/betrayed/thoughts.md"
               }
             }
           },
@@ -158,6 +160,8 @@
   "active": "5a4e492c312bd1de",
   "lastOpenFiles": [
     "resources/keys/managers.mdenc",
+    "journals/betrayed/thoughts.md",
+    "journals/betrayed",
     "resources/obsidian-templates/fucked-around-journal.md",
     "resources/keys/keys.mdenc",
     "resources/keys/bitwarden.mdenc",
@@ -173,8 +177,6 @@
     "resources/obsidian-templates",
     "Welcome.md",
     "resources/professional/interests.md",
-    "journals/being-fucked-around",
-    "journals",
     "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
     "areas/money/todo.md",
