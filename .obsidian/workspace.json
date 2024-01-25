@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30c9adee7bd78e99",
+            "id": "89cc353acda170e1",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "resources/keys/bitwarden.mdenc"
+                "file": "resources/keys/managers.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/bitwarden.mdenc",
+                "file": "resources/keys/managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/bitwarden.mdenc",
+                "file": "resources/keys/managers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/bitwarden.mdenc"
+                "file": "resources/keys/managers.md"
               }
             }
           },
@@ -155,13 +157,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30c9adee7bd78e99",
+  "active": "89cc353acda170e1",
   "lastOpenFiles": [
-    "resources/keys/bit-warden.mdenc",
-    "resources/keys/bitwarden.mdenc",
-    "resources/keys/keys.mdenc",
-    "resources/keys",
     "resources/obsidian-templates/fucked-around-journal.md",
+    "resources/keys/managers.md",
+    "resources/keys/keys.mdenc",
+    "resources/keys/bitwarden.mdenc",
+    "resources/keys/bit-warden.mdenc",
+    "resources/keys",
     "resources/project-ideas/json-annotations-plugin.md",
     "journals/being-fucked-around/daily-journal.md",
     "projects/portfolio/json-resume/resources.md",
@@ -178,7 +181,6 @@
     "areas/tech/dell-5620/todo.md",
     "areas/money/todo.md",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
-    "resources/professional",
     "resources/Untitled.canvas",
     "resources/work-history/freelance-as-erisia.md",
     "projects/portfolio/json-resume/todo.md",
