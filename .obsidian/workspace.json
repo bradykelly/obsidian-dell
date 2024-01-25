@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/portfolio/json-resume/resources.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c3c329da69839fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "resources/obsidian-templates/fucked-around-journal.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,13 +153,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c3c329da69839fb9",
+  "active": "2c76e79dcfe5fffb",
   "lastOpenFiles": [
+    "resources/project-ideas/json-annotations-plugin.md",
     "journals/being-fucked-around/daily-journal.md",
     "resources/obsidian-templates/fucked-around-journal.md",
+    "projects/portfolio/json-resume/resources.md",
+    "resources/encryption-key-whatsapp-biz.md",
+    "resources/Temp Creds.mdenc",
+    "resources/stuff.mdenc",
+    "resources/Notes.mdenc",
+    "resources/keys.mdenc",
     "resources/obsidian-templates",
     "Welcome.md",
     "resources/professional/interests.md",
@@ -185,23 +180,16 @@
     "resources/professional",
     "resources/Untitled.canvas",
     "resources/work-history/freelance-as-erisia.md",
-    "projects/portfolio/json-resume/resources.md",
     "projects/portfolio/work-history",
     "projects/portfolio/json-resume/todo.md",
-    "resources/encryption-key-whatsapp-biz.md",
     "projects/portfolio/json-resume",
-    "resources/professional/work-history",
     "areas/household/security/todo.md",
-    "projects/json-resume/Untitled",
     "areas/work/freelance-services.md",
     "projects/dell-5620/must-install.md",
-    "areas/household/security",
     "areas/household/strange-things.md",
-    "areas/money",
     "areas/work/upwork.md",
     "areas/gaming/steam-password-reset.md",
     "areas/engineering/todo.md",
-    "resources/project-ideas/json-annotations-plugin.md",
     "areas/work/profiles/public.md",
     "areas/work/profiles/first.md",
     "areas/online/design-debacles/edge.md",
