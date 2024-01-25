@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c861eb1b481c43f",
+        "id": "648e666273d248f8",
         "type": "tabs",
         "children": [
           {
-            "id": "2c76e79dcfe5fffb",
+            "id": "1310d83e55531797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-file-content-view",
               "state": {
-                "file": "resources/keys/bit-warden.md",
-                "mode": "source",
-                "source": true
+                "file": "resources/keys/bit-warden.mdenc"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/bit-warden.md",
+                "file": "resources/keys/bit-warden.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/bit-warden.md",
+                "file": "resources/keys/bit-warden.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/bit-warden.md"
+                "file": "resources/keys/bit-warden.mdenc"
               }
             }
           },
@@ -157,10 +155,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c76e79dcfe5fffb",
+  "active": "1310d83e55531797",
   "lastOpenFiles": [
     "resources/keys/keys.mdenc",
-    "resources/keys/bit-warden.md",
+    "resources/keys/bit-warden.mdenc",
     "resources/keys",
     "resources/obsidian-templates/fucked-around-journal.md",
     "resources/project-ideas/json-annotations-plugin.md",
