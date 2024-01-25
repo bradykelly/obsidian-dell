@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d53e431ed1b9e08",
+        "id": "dcf43f2fede60a52",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4e492c312bd1de",
+            "id": "7a0cd4d7c236ee11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/betrayed/thoughts.md",
+                "file": "resources/keys/managers.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/betrayed/thoughts.md",
+                "file": "resources/keys/managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/betrayed/thoughts.md",
+                "file": "resources/keys/managers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/betrayed/thoughts.md"
+                "file": "resources/keys/managers.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "9624b517fd1e1061",
+  "active": "7a0cd4d7c236ee11",
   "lastOpenFiles": [
+    "journals/betrayed/thoughts.mdenc",
+    "resources/keys/managers.md",
     "resources/keys/managers.mdenc",
-    "journals/betrayed/thoughts.md",
     "journals/betrayed",
     "resources/obsidian-templates/fucked-around-journal.md",
     "resources/keys/keys.mdenc",
@@ -183,7 +184,6 @@
     "resources/Temp Creds.mdenc",
     "resources/stuff.mdenc",
     "resources/Notes.mdenc",
-    "resources/obsidian-templates",
     "Welcome.md",
     "resources/professional/interests.md",
     "areas/dashboard/todo-queries.md",
