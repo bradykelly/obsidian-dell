@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5efa828508a3d3e7",
+        "id": "9a471b31889ac2e3",
         "type": "tabs",
         "children": [
           {
-            "id": "89cc353acda170e1",
+            "id": "636c5cf217a9f755",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/keys/managers.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/managers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "resources/keys/managers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89cc353acda170e1",
+  "active": "636c5cf217a9f755",
   "lastOpenFiles": [
-    "resources/obsidian-templates/fucked-around-journal.md",
     "resources/keys/managers.md",
+    "resources/obsidian-templates/fucked-around-journal.md",
     "resources/keys/keys.mdenc",
     "resources/keys/bitwarden.mdenc",
     "resources/keys/bit-warden.mdenc",
