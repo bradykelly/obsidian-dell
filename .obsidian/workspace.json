@@ -11,9 +11,11 @@
             "id": "1310d83e55531797",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "resources/keys/bit-warden.mdenc"
+                "file": "resources/keys/bitwarden.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/bit-warden.mdenc",
+                "file": "resources/keys/bitwarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/bit-warden.mdenc",
+                "file": "resources/keys/bitwarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/bit-warden.mdenc"
+                "file": "resources/keys/bitwarden.md"
               }
             }
           },
@@ -157,8 +159,9 @@
   },
   "active": "1310d83e55531797",
   "lastOpenFiles": [
-    "resources/keys/keys.mdenc",
     "resources/keys/bit-warden.mdenc",
+    "resources/keys/bitwarden.md",
+    "resources/keys/keys.mdenc",
     "resources/keys",
     "resources/obsidian-templates/fucked-around-journal.md",
     "resources/project-ideas/json-annotations-plugin.md",
@@ -180,7 +183,6 @@
     "resources/professional",
     "resources/Untitled.canvas",
     "resources/work-history/freelance-as-erisia.md",
-    "projects/portfolio/work-history",
     "projects/portfolio/json-resume/todo.md",
     "areas/household/security/todo.md",
     "areas/work/freelance-services.md",
