@@ -136,9 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "9624b517fd1e1061",
+            "type": "leaf",
+            "state": {
+              "type": "wordy-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -154,10 +162,11 @@
       "command-palette:Open command palette": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "5a4e492c312bd1de",
+  "active": "9624b517fd1e1061",
   "lastOpenFiles": [
     "resources/keys/managers.mdenc",
     "journals/betrayed/thoughts.md",

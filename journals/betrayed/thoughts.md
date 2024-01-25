@@ -23,3 +23,8 @@ And Sue has put so much effort into making this a proper home, not a ramshackle 
 ## Part 2 - The Events and Activities
 
 I feel too many knives in my back to continue with this today, but will expound on how closely they have watched and spied on my every activity in the house.
+
+
+## Part 3 - A Long Time Friend
+
+Perhaps the worst of this whole affair is that Shaun and I have supposedly been friends for many, many years, yet what I observe in Sue's version 
