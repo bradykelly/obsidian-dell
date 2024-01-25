@@ -27,4 +27,16 @@ I feel too many knives in my back to continue with this today, but will expound 
 
 ## Part 3 - A Long Time Friend
 
-Perhaps the worst of this whole affair is that Shaun and I have supposedly been friends for many, many years, yet what I observe in Sue's version 
+Perhaps the worst of this whole affair is that Shaun and I have supposedly been friends for many, many years, yet what I observe in Sue's understanding of my character and maturity, is that of someone physically younger, mentally much younger, and in professional terms, significantly less capable than Shaun. 
+
+Sue and I have known each other for just over two years and until we were housemates, we had not spoken much at all except for light, social chatter. She knew very little about me, and probably thought she knew me more through how Shaun had spoken of me.
+
+Yet I am a few years older than him, and from what I've seen more or less professionally equal. I sometimes fumble in my work, but there is no sign that he is more skilled in his tools than I am in mine. When I mention problems I am having with my work or equipment, he offers the most basic advice, advice I would only give someone several years less experienced and skilled than me. 
+
+I am grateful for his attempts to help, but seeing as we are more or less at the same level professionally, and have never worked together, I can't but wonder why his estimation of my knowledge is so skewed toward me knowing so much less than him. I can't help but assume this again points to his general opinion of me being much lower than his opinion of himself.
+
+One difference between us is that I haven't had many girlfriends or much of a sex life. If these are all that define one's character and standing in life, where the number of people you fuck is the measure of the man you are, and traits like empathy, composure and, especially, courage, are ignored.
+
+This implies an archaic and primitive paradigm . Like when black people and women were thought to be less life skilled than men. It is most contemptuous, disrespectful, and plain rude of him to assume this view of me.
+
+Sue was under the impression that now that we would be working together in the same room, Shaun would be mentoring me, not that we would be helping each other. This suggests that Shaun talks about me as I described above, and very likely views me as such
