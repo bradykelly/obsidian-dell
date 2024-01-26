@@ -1,1 +1,0 @@
-# **Why am I the cunt that is hated so much?**
