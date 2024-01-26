@@ -2,5 +2,5 @@
  - My remote is gone
  - My wallet is gone
  - My vape is gone
- - Gate key is gone
- - Shaun's mother was quietly let in without buzzing
+ - My door key is gone
+ - Shaun Hancock's mother was quietly let in without buzzing
