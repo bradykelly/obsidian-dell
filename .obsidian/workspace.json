@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/being-fucked-around/daily-journal.md",
+                "file": "journals/betrayed/daily-events.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c6e552149a2032dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/betrayed/daily-events.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/being-fucked-around/daily-journal.md",
+                "file": "journals/betrayed/daily-events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/being-fucked-around/daily-journal.md",
+                "file": "journals/betrayed/daily-events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/being-fucked-around/daily-journal.md"
+                "file": "journals/betrayed/daily-events.md"
               }
             }
           },
@@ -179,11 +191,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "f14c164195764d4a",
+  "active": "c6e552149a2032dc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "journals/betrayed/daily-events.md",
+    "journals/being-fucked-around/daily-journal.md",
     "journals/betrayed/strange-things.md",
     "resources/keys/managers.mdenc",
-    "journals/betrayed/daily-events.md",
     "journals/betrayed/thoughts.mdenc",
     "journals/betrayed",
     "resources/obsidian-templates/fucked-around-journal.md",
@@ -192,7 +206,6 @@
     "resources/keys/bit-warden.mdenc",
     "resources/keys",
     "resources/project-ideas/json-annotations-plugin.md",
-    "journals/being-fucked-around/daily-journal.md",
     "projects/portfolio/json-resume/resources.md",
     "resources/encryption-key-whatsapp-biz.md",
     "resources/Temp Creds.mdenc",
