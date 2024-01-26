@@ -2,4 +2,4 @@
 
 Sue seems determined to compromise our security and privacy.
 
-That was followed by an attempt to enter my bedroom 
+That was followed by an attempt to enter my bedroom unnanounced. I could hear Sue over and over telling SEan to "go", when they thought I was in the bathroom. Why enter my room when I'm not present? Perhaps to plant something?
