@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "areas/gaming/steam-password-reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "areas/gaming/steam-password-reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/betrayed/daily-events.md"
+                "file": "areas/gaming/steam-password-reset.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d196dec38496551f",
+  "active": "c6e552149a2032dc",
   "lastOpenFiles": [
+    "journals/betrayed/daily-events.md",
     "projects/dell-5620/must-install.md",
     "projects/portfolio/json-resume/resources.md",
     "resources/project-ideas/json-annotations-plugin.md",
@@ -203,7 +204,6 @@
     "resources/keys/managers.mdenc",
     "Welcome.md",
     "Untitled.md",
-    "journals/betrayed/daily-events.md",
     "journals/being-fucked-around/daily-journal.md",
     "journals/betrayed/strange-things.md",
     "journals/betrayed/thoughts.mdenc",
