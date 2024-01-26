@@ -11,9 +11,11 @@
             "id": "7f32e10df2ca821f",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "resources/keys/managers.mdenc"
+                "file": "journals/betrayed/daily-events.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/managers.mdenc",
+                "file": "journals/betrayed/daily-events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/managers.mdenc",
+                "file": "journals/betrayed/daily-events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/managers.mdenc"
+                "file": "journals/betrayed/daily-events.md"
               }
             }
           },
@@ -167,7 +169,7 @@
   "active": "7f32e10df2ca821f",
   "lastOpenFiles": [
     "journals/betrayed/thoughts.mdenc",
-    "resources/keys/managers.mdenc",
+    "journals/betrayed/daily-events.md",
     "resources/keys/managers.mdenc",
     "journals/betrayed",
     "resources/obsidian-templates/fucked-around-journal.md",
