@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "journals/being-fucked-around/daily-journal.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "journals/being-fucked-around/daily-journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "journals/being-fucked-around/daily-journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/betrayed/daily-events.md"
+                "file": "journals/being-fucked-around/daily-journal.md"
               }
             }
           },
@@ -181,9 +181,10 @@
   },
   "active": "f14c164195764d4a",
   "lastOpenFiles": [
-    "journals/betrayed/thoughts.mdenc",
-    "journals/betrayed/daily-events.md",
+    "journals/betrayed/strange-things.md",
     "resources/keys/managers.mdenc",
+    "journals/betrayed/daily-events.md",
+    "journals/betrayed/thoughts.mdenc",
     "journals/betrayed",
     "resources/obsidian-templates/fucked-around-journal.md",
     "resources/keys/keys.mdenc",
@@ -209,7 +210,6 @@
     "areas/household/security/todo.md",
     "areas/work/freelance-services.md",
     "projects/dell-5620/must-install.md",
-    "areas/household/strange-things.md",
     "areas/work/upwork.md",
     "areas/gaming/steam-password-reset.md",
     "areas/engineering/todo.md",
