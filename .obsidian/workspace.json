@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "areas/gaming/steam-password-reset.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "master",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,44 +192,43 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "c6e552149a2032dc",
+  "active": "d196dec38496551f",
   "lastOpenFiles": [
+    "projects/dell-5620/must-install.md",
+    "projects/portfolio/json-resume/resources.md",
+    "resources/project-ideas/json-annotations-plugin.md",
+    "resources/professional/interests.md",
+    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+    "resources/obsidian-templates/fucked-around-journal.md",
+    "resources/keys/managers.mdenc",
+    "Welcome.md",
     "Untitled.md",
     "journals/betrayed/daily-events.md",
     "journals/being-fucked-around/daily-journal.md",
     "journals/betrayed/strange-things.md",
-    "resources/keys/managers.mdenc",
     "journals/betrayed/thoughts.mdenc",
     "journals/betrayed",
-    "resources/obsidian-templates/fucked-around-journal.md",
     "resources/keys/keys.mdenc",
     "resources/keys/bitwarden.mdenc",
     "resources/keys/bit-warden.mdenc",
     "resources/keys",
-    "resources/project-ideas/json-annotations-plugin.md",
-    "projects/portfolio/json-resume/resources.md",
     "resources/encryption-key-whatsapp-biz.md",
     "resources/Temp Creds.mdenc",
     "resources/stuff.mdenc",
     "resources/Notes.mdenc",
-    "Welcome.md",
-    "resources/professional/interests.md",
     "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
     "areas/money/todo.md",
-    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "resources/Untitled.canvas",
     "resources/work-history/freelance-as-erisia.md",
     "projects/portfolio/json-resume/todo.md",
     "areas/household/security/todo.md",
     "areas/work/freelance-services.md",
-    "projects/dell-5620/must-install.md",
     "areas/work/upwork.md",
     "areas/gaming/steam-password-reset.md",
     "areas/engineering/todo.md",
     "areas/work/profiles/public.md",
     "areas/work/profiles/first.md",
-    "areas/online/design-debacles/edge.md",
-    "README.md"
+    "areas/online/design-debacles/edge.md"
   ]
 }
