@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f14c164195764d4a",
+            "type": "leaf",
+            "state": {
+              "type": "meld-encrypted-file-content-view",
+              "state": {
+                "file": "journals/betrayed/thoughts.mdenc"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "journals/betrayed/thoughts.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/betrayed/daily-events.md",
+                "file": "journals/betrayed/thoughts.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/betrayed/daily-events.md"
+                "file": "journals/betrayed/thoughts.mdenc"
               }
             }
           },
@@ -166,10 +177,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "7f32e10df2ca821f",
+  "active": "312b1d8a8e3a3501",
   "lastOpenFiles": [
-    "journals/betrayed/thoughts.mdenc",
     "journals/betrayed/daily-events.md",
+    "journals/betrayed/thoughts.mdenc",
     "resources/keys/managers.mdenc",
     "journals/betrayed",
     "resources/obsidian-templates/fucked-around-journal.md",
