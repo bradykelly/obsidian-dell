@@ -2,4 +2,6 @@
 
 Sue seems determined to compromise our security and privacy.
 
-That was followed by an attempt to enter my bedroom unnanounced. I could hear Sue over and over telling SEan to "go", when they thought I was in the bathroom. Why enter my room when I'm not present? Perhaps to plant something?
+That was followed by an attempt to enter my bedroom unnanounced. I could hear Sue over and over telling Sean to "go", when they thought I was in the bathroom. Why enter my room when I'm not present? Perhaps to plant something?
+
+Not going down for somebody else is not snitching
