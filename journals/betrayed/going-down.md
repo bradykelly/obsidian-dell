@@ -9,3 +9,5 @@ So it seems it's Sue that doesn't trust me, because I've had large payments of m
 # Otherwise I have had no, that means zero, income.
 
 Now it sounds like she suspects me of stealing things! I have been fucking genuine and happy about being friends with this woman, assuming she had accepted me as a friend. For suck's sake! I've loved having her around, and she's just tolerated a nuisance she doesn't trust! Just a fucking walking, breathing wallet is what I've been. Just because I fucking don't pass her strange standards for trustworthiness.
+
+It now also appears she has noticed me listening in on them talking about me. Isn't that quite a natural thing to do? When you hear people whispering about you, not only does the smallest bit of manners give you a right to know what is being said, but caution and curiosity are the biggest reason to try and hear what is being said about you.
