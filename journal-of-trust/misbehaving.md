@@ -1,6 +1,6 @@
-2024-01-27 It now seems my friends still suspect me of something, probably something to do with Sue's arrest, or something equally heinous. I am getting the silent treatment, and looks.
+**2024-01-27** It now seems my friends still suspect me of something, probably something to do with Sue's arrest, or something equally heinous. I am getting the silent treatment, and looks.
 
-I cannot stand it when someone has an issue with me and won't confront me with it. I can't raise it because for some fucking reason they still believe the stale old, and stupid, denial is still effective. I wonder if they keep using it because they think or know our conversations are monitored; they really cannot be stupid enough to really believe it is at all effective with me. 
+**I cannot stand it when someone has an issue with me and won't confront me with it**. I can't raise it because for some fucking reason they still believe their stale old, and stupid, denial is still effective. I wonder if they keep using it because they think or know our conversations are monitored; they really cannot be stupid enough to really believe it is at all effective with me. 
 
 Yes, it might stand up as evidence, because I am supposed to have had a psychotic episode according to them, and I am indeed very anxious, but my anxiety is born of being mistrusted by people that seemed very like friends before Sue's arrest, and spoken about in what they seem to think is secret. 
 
