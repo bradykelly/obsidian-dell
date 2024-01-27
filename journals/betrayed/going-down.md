@@ -7,3 +7,5 @@ Whoever may read this, please be sure that I have not gone down for snitching an
 So it seems it's Sue that doesn't trust me, because I've had large payments of money. 
 # They were just two: a fucking pension payout and an investment that matured, for fucks goddammed sake! And I can prove it! 
 # Otherwise I have had no, that means zero, income.
+
+Now it sounds like she suspects me of stealing things! I have been fucking genuine and happy about being friends with this woman, assuming she had accepted me as a friend. For suck's sake! I've loved having her around, and she's just tolerated a nuisance she doesn't trust! Just a fucking walking, breathing wallet is what I've been. Just because I fucking don't pass her strange standards for trustworthiness.
