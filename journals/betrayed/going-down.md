@@ -13,3 +13,5 @@ Now it sounds like she suspects me of stealing things! I have been fucking genui
 It now also appears she has noticed me listening in on them talking about me. Isn't that quite a natural thing to do? When you hear people whispering about you, not only does the smallest bit of manners give you a right to know what is being said, but caution and curiosity are the biggest reason to try and hear what is being said about you.
 
 What would you do if you heard things being said about you being suspicious, but nobody will confront you about it? When you bring it up, they regurgitate the same, tired old denial. I am hearing things, there is no talking about my trustworthiness. What the living fuck am I supposed to do?
+
+I'm paranoid because I'm being spoken about in secret all the time, not because I'm up to any fucking thing.
