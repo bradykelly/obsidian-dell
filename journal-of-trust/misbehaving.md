@@ -1,4 +1,4 @@
-It now seems my friends still suspect me of something, probably something to do with Sue's arrest, or something equally heinous. I am getting the silent treatment, and looks.
+2024-01-27 It now seems my friends still suspect me of something, probably something to do with Sue's arrest, or something equally heinous. I am getting the silent treatment, and looks.
 
 I cannot stand it when someone has an issue with me and won't confront me with it. I can't raise it because for some fucking reason they still believe the stale old, and stupid, denial is still effective. I wonder if they keep using it because they think or know our conversations are monitored; they really cannot be stupid enough to really believe it is at all effective with me. 
 
