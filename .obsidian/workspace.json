@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal-of-trust/daily-events.md",
+                "file": "journal-of-trust/tresspassing.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal-of-trust/daily-events.md",
+                "file": "journal-of-trust/tresspassing.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal-of-trust/misbehaving.md",
+                "file": "journal-of-trust/tresspassing.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal-of-trust/misbehaving.md",
+                "file": "journal-of-trust/tresspassing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal-of-trust/misbehaving.md",
+                "file": "journal-of-trust/tresspassing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal-of-trust/misbehaving.md"
+                "file": "journal-of-trust/tresspassing.md"
               }
             }
           },
@@ -191,15 +191,15 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "c6e552149a2032dc",
+  "active": "312b1d8a8e3a3501",
   "lastOpenFiles": [
+    "journal-of-trust/strange.md",
     "journal-of-trust/intro.md",
     "journal-of-trust/thoughts.mdenc",
     "journal-of-trust/strange-things.md",
     "journal-of-trust/going-down.md",
-    "journal-of-trust/daily-events.md",
+    "journal-of-trust/tresspassing.md",
     "areas/tech/being-fucked-around/daily-journal.md",
-    "journal-of-trust/misbehaving.md",
     "journal-of-trust/trust.md",
     "Welcome.md",
     "areas/gaming/steam-password-reset.md",
