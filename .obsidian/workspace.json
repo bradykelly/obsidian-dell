@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/betrayed/going-down.md",
+                "file": "journals/misbehaving.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/betrayed/going-down.md",
+                "file": "journals/misbehaving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/betrayed/going-down.md",
+                "file": "journals/misbehaving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/betrayed/going-down.md"
+                "file": "journals/misbehaving.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "c6e552149a2032dc",
   "lastOpenFiles": [
-    "journals/being-fucked-around/daily-journal.md",
     "journals/betrayed/going-down.md",
+    "journals/misbehaving.md",
+    "journals/being-fucked-around/daily-journal.md",
     "areas/gaming/steam-password-reset.md",
     "journals/betrayed/daily-events.md",
     "projects/dell-5620/must-install.md",
@@ -228,7 +229,6 @@
     "areas/work/upwork.md",
     "areas/engineering/todo.md",
     "areas/work/profiles/public.md",
-    "areas/work/profiles/first.md",
-    "areas/online/design-debacles/edge.md"
+    "areas/work/profiles/first.md"
   ]
 }
