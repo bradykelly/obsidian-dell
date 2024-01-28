@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/household/security/todo.md",
+                "file": "projects/battery-charger/basics.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/household/security/todo.md",
+                "file": "projects/battery-charger/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/household/security/todo.md",
+                "file": "projects/battery-charger/basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/household/security/todo.md"
+                "file": "projects/battery-charger/basics.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,6 +168,11 @@
   },
   "active": "c6e552149a2032dc",
   "lastOpenFiles": [
+    "resources/obsidian-templates/fucked-around-journal.md",
+    "projects/battery-charger/basics.md",
+    "projects/battery-charger",
+    "journal-of-trust/betrayed",
+    "areas/household/security/todo.md",
     "journal-of-trust/thoughts.mdenc",
     "journal-of-trust/strange.md",
     "journal-of-trust",
@@ -185,23 +190,19 @@
     "projects/portfolio/json-resume/resources.md",
     "resources/project-ideas/json-annotations-plugin.md",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
-    "resources/obsidian-templates/fucked-around-journal.md",
     "resources/keys/managers.mdenc",
-    "journal-of-trust/betrayed",
     "resources/keys/keys.mdenc",
     "resources/keys/bitwarden.mdenc",
     "resources/keys/bit-warden.mdenc",
     "resources/keys",
     "resources/encryption-key-whatsapp-biz.md",
     "resources/Temp Creds.mdenc",
-    "resources/stuff.mdenc",
     "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
     "areas/money/todo.md",
     "resources/Untitled.canvas",
     "resources/work-history/freelance-as-erisia.md",
     "projects/portfolio/json-resume/todo.md",
-    "areas/household/security/todo.md",
     "areas/work/freelance-services.md",
     "areas/work/upwork.md"
   ]
