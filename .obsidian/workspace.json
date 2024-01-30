@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/battery-charger/basics.md",
+                "file": "areas/household/journal/20204-01-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/battery-charger/basics.md",
+                "file": "areas/household/journal/20204-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/battery-charger/basics.md",
+                "file": "areas/household/journal/20204-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/battery-charger/basics.md"
+                "file": "areas/household/journal/20204-01-30.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "c6e552149a2032dc",
   "lastOpenFiles": [
-    "resources/obsidian-templates/fucked-around-journal.md",
     "projects/battery-charger/basics.md",
+    "areas/household/journal/20204-01-30.md",
+    "areas/household/journal",
+    "resources/obsidian-templates/fucked-around-journal.md",
     "projects/battery-charger",
     "journal-of-trust/betrayed",
     "areas/household/security/todo.md",
@@ -196,14 +198,12 @@
     "resources/keys/bit-warden.mdenc",
     "resources/keys",
     "resources/encryption-key-whatsapp-biz.md",
-    "resources/Temp Creds.mdenc",
     "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
     "areas/money/todo.md",
     "resources/Untitled.canvas",
     "resources/work-history/freelance-as-erisia.md",
     "projects/portfolio/json-resume/todo.md",
-    "areas/work/freelance-services.md",
-    "areas/work/upwork.md"
+    "areas/work/freelance-services.md"
   ]
 }
