@@ -1,0 +1,1 @@
+- can't add selected tabs to favourites, favourites generally bad, find more faults

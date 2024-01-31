@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/household/journal/20204-01-30.md",
+                "file": "areas/household/journal/2024-01-31.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/household/journal/20204-01-30.md",
+                "file": "areas/household/journal/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/household/journal/20204-01-30.md",
+                "file": "areas/household/journal/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/household/journal/20204-01-30.md"
+                "file": "areas/household/journal/2024-01-31.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "c6e552149a2032dc",
   "lastOpenFiles": [
+    "areas/household/journal/2024-01-30.md",
+    "areas/household/journal/2024-01-31.md",
     "projects/battery-charger/basics.md",
-    "areas/household/journal/20204-01-30.md",
     "areas/household/journal",
     "resources/obsidian-templates/fucked-around-journal.md",
     "projects/battery-charger",
@@ -203,7 +204,6 @@
     "areas/money/todo.md",
     "resources/Untitled.canvas",
     "resources/work-history/freelance-as-erisia.md",
-    "projects/portfolio/json-resume/todo.md",
-    "areas/work/freelance-services.md"
+    "projects/portfolio/json-resume/todo.md"
   ]
 }
