@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/household/journal/2024-01-31.md",
+                "file": "resources/obsidian-templates/fucked-around-journal.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/household/journal/2024-01-31.md",
+                "file": "resources/obsidian-templates/fucked-around-journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/household/journal/2024-01-31.md",
+                "file": "resources/obsidian-templates/fucked-around-journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/household/journal/2024-01-31.md"
+                "file": "resources/obsidian-templates/fucked-around-journal.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "c6e552149a2032dc",
   "lastOpenFiles": [
-    "areas/household/journal/2024-01-30.md",
+    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "areas/household/journal/2024-01-31.md",
+    "areas/household/journal/2024-01-30.md",
     "projects/battery-charger/basics.md",
     "areas/household/journal",
     "resources/obsidian-templates/fucked-around-journal.md",
@@ -192,7 +193,6 @@
     "projects/dell-5620/must-install.md",
     "projects/portfolio/json-resume/resources.md",
     "resources/project-ideas/json-annotations-plugin.md",
-    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "resources/keys/managers.mdenc",
     "resources/keys/keys.mdenc",
     "resources/keys/bitwarden.mdenc",
