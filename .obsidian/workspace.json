@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/obsidian-templates/fucked-around-journal.md",
+                "file": "projects/job-hunt/leads.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/obsidian-templates/fucked-around-journal.md",
+                "file": "projects/job-hunt/leads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/obsidian-templates/fucked-around-journal.md",
+                "file": "projects/job-hunt/leads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/obsidian-templates/fucked-around-journal.md"
+                "file": "projects/job-hunt/leads.md"
               }
             }
           },
@@ -168,12 +168,14 @@
   },
   "active": "c6e552149a2032dc",
   "lastOpenFiles": [
+    "resources/obsidian-templates/fucked-around-journal.md",
+    "projects/job-hunt/leads.md",
+    "projects/job-hunt",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "areas/household/journal/2024-01-31.md",
     "areas/household/journal/2024-01-30.md",
     "projects/battery-charger/basics.md",
     "areas/household/journal",
-    "resources/obsidian-templates/fucked-around-journal.md",
     "projects/battery-charger",
     "journal-of-trust/betrayed",
     "areas/household/security/todo.md",
@@ -197,13 +199,11 @@
     "resources/keys/keys.mdenc",
     "resources/keys/bitwarden.mdenc",
     "resources/keys/bit-warden.mdenc",
-    "resources/keys",
     "resources/encryption-key-whatsapp-biz.md",
     "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
     "areas/money/todo.md",
     "resources/Untitled.canvas",
-    "resources/work-history/freelance-as-erisia.md",
-    "projects/portfolio/json-resume/todo.md"
+    "resources/work-history/freelance-as-erisia.md"
   ]
 }
