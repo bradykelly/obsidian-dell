@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/job-hunt/leads.md",
+                "file": "projects/job-hunt/leads - todo.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/job-hunt/leads.md",
+                "file": "projects/job-hunt/leads - todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/job-hunt/leads.md",
+                "file": "projects/job-hunt/leads - todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/job-hunt/leads.md"
+                "file": "projects/job-hunt/leads - todo.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "c6e552149a2032dc",
+  "active": "312b1d8a8e3a3501",
   "lastOpenFiles": [
     "resources/obsidian-templates/fucked-around-journal.md",
-    "projects/job-hunt/leads.md",
+    "projects/job-hunt/leads - todo.md",
     "projects/job-hunt",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "areas/household/journal/2024-01-31.md",
