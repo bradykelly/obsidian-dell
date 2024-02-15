@@ -11,9 +11,11 @@
             "id": "87d3b8ad9c11afc1",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-file-content-view",
+              "type": "markdown",
               "state": {
-                "file": "resources/keys/browsers.mdenc"
+                "file": "areas/writing/articles/Generated Code.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/browsers.mdenc",
+                "file": "areas/writing/articles/Generated Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/browsers.mdenc",
+                "file": "areas/writing/articles/Generated Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/browsers.mdenc"
+                "file": "areas/writing/articles/Generated Code.md"
               }
             }
           },
@@ -166,8 +168,11 @@
   },
   "active": "87d3b8ad9c11afc1",
   "lastOpenFiles": [
-    "resources/keys/managers.mdenc",
     "resources/keys/browsers.mdenc",
+    "areas/writing/articles/Generated Code.md",
+    "areas/writing/articles",
+    "areas/writing",
+    "resources/keys/managers.mdenc",
     "areas/household/shopping/2020-02-15.md",
     "areas/household/security/todo.md",
     "areas/household/shopping",
@@ -183,7 +188,6 @@
     "journal-of-trust/betrayed",
     "journal-of-trust/thoughts.mdenc",
     "journal-of-trust/strange.md",
-    "journal-of-trust",
     "Welcome.md",
     "Untitled.md",
     "resources/professional/interests.md",
@@ -197,8 +201,6 @@
     "projects/dell-5620/must-install.md",
     "projects/portfolio/json-resume/resources.md",
     "resources/project-ideas/json-annotations-plugin.md",
-    "resources/keys/keys.mdenc",
-    "resources/keys/bitwarden.mdenc",
     "resources/encryption-key-whatsapp-biz.md",
     "areas/dashboard/todo-queries.md",
     "resources/Untitled.canvas"

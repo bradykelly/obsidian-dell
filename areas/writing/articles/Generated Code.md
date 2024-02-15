@@ -1,0 +1,1 @@
+Very often a code component will appear well tested and documented, especially for busy coders that don't have time to read a README file for no reason, or to run tests on code not related to their projects. However, sometimes a closer look at the code, in the areas just mentioned and elsewhere, reveals 
