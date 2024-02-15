@@ -146,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +166,7 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "87d3b8ad9c11afc1",
+  "active": "a38e561ec14913d8",
   "lastOpenFiles": [
     "resources/keys/browsers.mdenc",
     "areas/writing/articles/Generated Code.md",
