@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md",
+                "file": "areas/tech/being-fucked-around/daily-journal.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md",
+                "file": "areas/tech/being-fucked-around/daily-journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md",
+                "file": "areas/tech/being-fucked-around/daily-journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md"
+                "file": "areas/tech/being-fucked-around/daily-journal.md"
               }
             }
           },
@@ -168,11 +168,11 @@
   },
   "active": "87d3b8ad9c11afc1",
   "lastOpenFiles": [
-    "areas/tech/dell-5620/todo.md",
     "resources/keys/pwd.md",
+    "areas/tech/dell-5620/todo.md",
+    "areas/writing/articles/Generated Code.md",
     "resources/keys/managers.mdenc",
     "resources/keys/browsers.mdenc",
-    "areas/writing/articles/Generated Code.md",
     "areas/writing/articles/XML Documentation.md",
     "resources/project-ideas/README from XML.md",
     "areas/writing/articles",
