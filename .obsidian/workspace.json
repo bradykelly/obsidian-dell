@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/keys/hints.md",
+                "file": "resources/project-ideas/tiny-password-manager.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/hints.md",
+                "file": "resources/project-ideas/tiny-password-manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/hints.md",
+                "file": "resources/project-ideas/tiny-password-manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/hints.md"
+                "file": "resources/project-ideas/tiny-password-manager.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "2590f17cd9f59246",
   "lastOpenFiles": [
+    "resources/keys/hints.md",
+    "resources/project-ideas/tiny-password-manager.md",
     "resources/keys/pwd.mdenc",
     "resources/keys/managers.mdenc",
-    "resources/keys/hints.md",
     "resources/keys/browsers.mdenc",
     "areas/writing/articles/Generated Code.md",
     "areas/tech/being-fucked-around/daily-journal.md",
