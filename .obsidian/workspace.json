@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e798da4f10935978",
+        "id": "12e52e0119ddb118",
         "type": "tabs",
         "children": [
           {
-            "id": "2590f17cd9f59246",
+            "id": "dd3573d81053c448",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/project-ideas/tiny-password-manager.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/project-ideas/tiny-password-manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/project-ideas/tiny-password-manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "resources/project-ideas/tiny-password-manager.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,14 +158,14 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "2590f17cd9f59246",
+  "active": "312b1d8a8e3a3501",
   "lastOpenFiles": [
-    "resources/keys/hints.md",
-    "resources/project-ideas/tiny-password-manager.md",
     "resources/keys/pwd.mdenc",
+    "areas/writing/articles/Generated Code.md",
+    "resources/project-ideas/tiny-password-manager.md",
+    "resources/keys/hints.md",
     "resources/keys/managers.mdenc",
     "resources/keys/browsers.mdenc",
-    "areas/writing/articles/Generated Code.md",
     "areas/tech/being-fucked-around/daily-journal.md",
     "areas/tech/dell-5620/todo.md",
     "areas/writing/articles/XML Documentation.md",
@@ -203,7 +195,6 @@
     "journal-of-trust/going-down.md",
     "journal-of-trust/missing.md",
     "areas/gaming/steam-password-reset.md",
-    "projects/dell-5620/must-install.md",
     "resources/Untitled.canvas"
   ]
 }
