@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md",
+                "file": "areas/tech/dell-5620/todo.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md",
+                "file": "areas/tech/dell-5620/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md",
+                "file": "areas/tech/dell-5620/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/writing/articles/Generated Code.md"
+                "file": "areas/tech/dell-5620/todo.md"
               }
             }
           },
@@ -168,13 +168,14 @@
   },
   "active": "87d3b8ad9c11afc1",
   "lastOpenFiles": [
+    "resources/keys/pwd.md",
+    "resources/keys/managers.mdenc",
+    "resources/keys/browsers.mdenc",
+    "areas/writing/articles/Generated Code.md",
     "areas/writing/articles/XML Documentation.md",
     "resources/project-ideas/README from XML.md",
-    "areas/writing/articles/Generated Code.md",
-    "resources/keys/browsers.mdenc",
     "areas/writing/articles",
     "areas/writing",
-    "resources/keys/managers.mdenc",
     "areas/household/shopping/2020-02-15.md",
     "areas/household/security/todo.md",
     "areas/household/shopping",
@@ -202,8 +203,6 @@
     "areas/gaming/steam-password-reset.md",
     "projects/dell-5620/must-install.md",
     "projects/portfolio/json-resume/resources.md",
-    "resources/project-ideas/json-annotations-plugin.md",
-    "resources/encryption-key-whatsapp-biz.md",
     "resources/Untitled.canvas"
   ]
 }
