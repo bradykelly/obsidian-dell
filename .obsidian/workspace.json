@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/tech/dell-5620/todo.md",
+                "file": "areas/writing/articles/Generated Code.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/tech/dell-5620/todo.md",
+                "file": "areas/writing/articles/Generated Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/tech/dell-5620/todo.md",
+                "file": "areas/writing/articles/Generated Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/tech/dell-5620/todo.md"
+                "file": "areas/writing/articles/Generated Code.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "87d3b8ad9c11afc1",
   "lastOpenFiles": [
+    "areas/tech/dell-5620/todo.md",
     "resources/keys/pwd.md",
     "resources/keys/managers.mdenc",
     "resources/keys/browsers.mdenc",
