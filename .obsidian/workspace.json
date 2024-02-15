@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/job-hunt/leads - todo.md",
+                "file": "areas/household/shopping/2020-02-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/job-hunt/leads - todo.md",
+                "file": "areas/household/shopping/2020-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/job-hunt/leads - todo.md",
+                "file": "areas/household/shopping/2020-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/job-hunt/leads - todo.md"
+                "file": "areas/household/shopping/2020-02-15.md"
               }
             }
           },
@@ -166,19 +166,21 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "312b1d8a8e3a3501",
+  "active": "c6e552149a2032dc",
   "lastOpenFiles": [
-    "resources/obsidian-templates/fucked-around-journal.md",
+    "areas/household/security/todo.md",
+    "areas/household/shopping/2020-02-15.md",
+    "areas/household/shopping",
     "projects/job-hunt/leads - todo.md",
+    "areas/household/journal/2024-01-30.md",
+    "areas/household/2024-01-31.md",
+    "resources/obsidian-templates/fucked-around-journal.md",
     "projects/job-hunt",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
-    "areas/household/journal/2024-01-31.md",
-    "areas/household/journal/2024-01-30.md",
     "projects/battery-charger/basics.md",
     "areas/household/journal",
     "projects/battery-charger",
     "journal-of-trust/betrayed",
-    "areas/household/security/todo.md",
     "journal-of-trust/thoughts.mdenc",
     "journal-of-trust/strange.md",
     "journal-of-trust",
@@ -198,12 +200,10 @@
     "resources/keys/managers.mdenc",
     "resources/keys/keys.mdenc",
     "resources/keys/bitwarden.mdenc",
-    "resources/keys/bit-warden.mdenc",
     "resources/encryption-key-whatsapp-biz.md",
     "areas/dashboard/todo-queries.md",
     "areas/tech/dell-5620/todo.md",
     "areas/money/todo.md",
-    "resources/Untitled.canvas",
-    "resources/work-history/freelance-as-erisia.md"
+    "resources/Untitled.canvas"
   ]
 }
