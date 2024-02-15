@@ -11,8 +11,12 @@
             "id": "dd3573d81053c448",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/portfolio/json-resume/todo.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/portfolio/json-resume/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/portfolio/json-resume/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects/portfolio/json-resume/todo.md"
+              }
             }
           },
           {
@@ -158,14 +166,14 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "312b1d8a8e3a3501",
+  "active": "dd3573d81053c448",
   "lastOpenFiles": [
     "resources/keys/pwd.mdenc",
+    "resources/keys/hints.md",
+    "resources/keys/browsers.mdenc",
     "areas/writing/articles/Generated Code.md",
     "resources/project-ideas/tiny-password-manager.md",
-    "resources/keys/hints.md",
     "resources/keys/managers.mdenc",
-    "resources/keys/browsers.mdenc",
     "areas/tech/being-fucked-around/daily-journal.md",
     "areas/tech/dell-5620/todo.md",
     "areas/writing/articles/XML Documentation.md",
