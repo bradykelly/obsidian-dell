@@ -16,8 +16,21 @@
                 "file": "resources/keys/pwd.mdenc"
               }
             }
+          },
+          {
+            "id": "b02502d2c8c9720f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/pwd.mdenc",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/pwd.mdenc",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/pwd.mdenc"
+                "file": "Untitled.md"
               }
             }
           },
@@ -164,15 +177,15 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "dd3573d81053c448",
+  "active": "b02502d2c8c9720f",
   "lastOpenFiles": [
+    "resources/keys/pwd.mdenc",
+    "resources/keys/browsers.mdenc",
+    "resources/keys/hints.md",
     "projects/portfolio/json-resume/todo.md",
     "resources/project-ideas/tiny-password-manager.md",
-    "resources/keys/pwd.mdenc",
-    "resources/keys/hints.md",
     "projects/portfolio/Comcorp.md",
     "resources/project-ideas/README from XML.md",
-    "resources/keys/browsers.mdenc",
     "projects/job-hunt/leads - todo.md",
     "projects/job-hunt",
     "projects/battery-charger/basics.md",
