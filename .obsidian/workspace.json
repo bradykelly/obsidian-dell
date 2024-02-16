@@ -11,11 +11,9 @@
             "id": "dd3573d81053c448",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-file-content-view",
               "state": {
-                "file": "projects/portfolio/Comcorp.md",
-                "mode": "source",
-                "source": true
+                "file": "resources/keys/pwd.mdenc"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/portfolio/Comcorp.md",
+                "file": "resources/keys/pwd.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/portfolio/Comcorp.md",
+                "file": "resources/keys/pwd.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/portfolio/Comcorp.md"
+                "file": "resources/keys/pwd.mdenc"
               }
             }
           },
@@ -169,41 +167,40 @@
   "active": "dd3573d81053c448",
   "lastOpenFiles": [
     "projects/portfolio/json-resume/todo.md",
-    "projects/portfolio/Comcorp.md",
+    "resources/project-ideas/tiny-password-manager.md",
     "resources/keys/pwd.mdenc",
     "resources/keys/hints.md",
-    "resources/keys/browsers.mdenc",
-    "areas/writing/articles/Generated Code.md",
-    "resources/project-ideas/tiny-password-manager.md",
-    "resources/keys/managers.mdenc",
-    "areas/tech/being-fucked-around/daily-journal.md",
-    "areas/tech/dell-5620/todo.md",
-    "areas/writing/articles/XML Documentation.md",
+    "projects/portfolio/Comcorp.md",
     "resources/project-ideas/README from XML.md",
+    "resources/keys/browsers.mdenc",
+    "projects/job-hunt/leads - todo.md",
+    "projects/job-hunt",
+    "projects/battery-charger/basics.md",
+    "projects/battery-charger",
+    "areas/writing/articles/Generated Code.md",
+    "areas/writing/articles/XML Documentation.md",
     "areas/writing/articles",
     "areas/writing",
+    "areas/tech/being-fucked-around/daily-journal.md",
+    "areas/tech/being-fucked-around",
     "areas/household/shopping/2020-02-15.md",
-    "areas/household/security/todo.md",
     "areas/household/shopping",
-    "projects/job-hunt/leads - todo.md",
+    "journals/being-fucked-around/daily-journal.md",
+    "journals/betrayed/thoughts.mdenc",
+    "journals/betrayed/strange-things.md",
+    "journals/betrayed/going-down.md",
+    "journals/betrayed/daily-events.md",
+    "journals/being-fucked-around",
+    "areas/tech/dell-5620/todo.md",
+    "areas/household/security/todo.md",
     "areas/household/journal/2024-01-30.md",
     "areas/household/2024-01-31.md",
     "resources/obsidian-templates/fucked-around-journal.md",
-    "projects/job-hunt",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
-    "projects/battery-charger/basics.md",
-    "areas/household/journal",
-    "projects/battery-charger",
-    "journal-of-trust/betrayed",
     "journal-of-trust/strange.md",
     "Welcome.md",
     "Untitled.md",
     "resources/professional/interests.md",
-    "journal-of-trust/trust.md",
-    "journal-of-trust/trespassing.md",
-    "journal-of-trust/intro.md",
-    "journal-of-trust/going-down.md",
-    "journal-of-trust/missing.md",
     "resources/Untitled.canvas"
   ]
 }
