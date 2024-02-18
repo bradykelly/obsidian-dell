@@ -1,18 +1,11 @@
 ---
 tags: work-profile/projects, work-profile/projects, work-profile/experience, portfolio/projects
 subject: work experience for public profile
+period: 2016-04-30 to 2018-06-30
 summary: various descriptions of work I did that employers and for client
 version: 0.0.1
 publish: no
 ---
-
-## Freelancer 2016-04-30 to 2018-06-30 - Rev 1 - Myself
-
-One project was an integration using a data source API of *GoCanvas* in the US and the data input API of *Private Property* in SA. GoCanvas offers a forms application for mobile devices that in this case was configured for realtors to capture listing data for properties.
-
-Private Property use a WCF based API, while GoCanvas used a REST API. My data transfer algorithms for transforming, supplementing, and mapping data in a wide variety of structures were extremely complex.\n\n
-
-Another project was the backend for an online betting system for golfers. The service has evolved a lot since I tested the first transaction on the backend I designed and developed. It is called [PayCaddy](https://www.paycaddy.co.za)
 
 ## Freelancer 2016-04-30 to 2018-06-30 - Rev 2 - ChatGPT
 

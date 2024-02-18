@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/obsidian/templates/work-experience-meta.md",
+                "file": "resources/professional/work-history/freelancer-a.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/obsidian/templates/work-experience-meta.md",
+                "file": "resources/professional/work-history/freelancer-a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/obsidian/templates/work-experience-meta.md",
+                "file": "resources/professional/work-history/freelancer-a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/obsidian/templates/work-experience-meta.md"
+                "file": "resources/professional/work-history/freelancer-a.md"
               }
             }
           },
@@ -179,7 +179,11 @@
   },
   "active": "b02502d2c8c9720f",
   "lastOpenFiles": [
-    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+    "resources/professional/work-history/freelancer-b.md",
+    "resources/professional/work-history/freelancer-a.md",
+    "projects/portfolio/Comcorp.md",
+    "projects/portfolio/json-resume/todo.md",
+    "projects/portfolio/json-resume/resources.md",
     "resources/obsidian/templates/work-experience-meta.md",
     "resources/obsidian/templates",
     "resources/obsidian",
@@ -189,9 +193,7 @@
     "resources/keys/hints.md",
     "resources/keys/browsers.mdenc",
     "Untitled.md",
-    "projects/portfolio/json-resume/todo.md",
     "resources/project-ideas/tiny-password-manager.md",
-    "projects/portfolio/Comcorp.md",
     "resources/project-ideas/README from XML.md",
     "projects/job-hunt/leads - todo.md",
     "projects/job-hunt",
@@ -213,8 +215,6 @@
     "areas/household/journal/2024-01-30.md",
     "areas/household/2024-01-31.md",
     "resources/obsidian-templates/fucked-around-journal.md",
-    "journal-of-trust/strange.md",
-    "Welcome.md",
     "resources/Untitled.canvas"
   ]
 }
