@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+                "file": "resources/obsidian/templates/work-experience-meta.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+                "file": "resources/obsidian/templates/work-experience-meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+                "file": "resources/obsidian/templates/work-experience-meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md"
+                "file": "resources/obsidian/templates/work-experience-meta.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "b02502d2c8c9720f",
   "lastOpenFiles": [
-    "resources/professional/interests.md",
     "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+    "resources/obsidian/templates/work-experience-meta.md",
+    "resources/obsidian/templates",
+    "resources/obsidian",
+    "resources/professional/interests.md",
     "resources/keys/managers.mdenc",
     "resources/keys/pwd.mdenc",
     "resources/keys/hints.md",
@@ -201,9 +204,7 @@
     "areas/tech/being-fucked-around/daily-journal.md",
     "areas/tech/being-fucked-around",
     "areas/household/shopping/2020-02-15.md",
-    "areas/household/shopping",
     "journals/being-fucked-around/daily-journal.md",
-    "journals/betrayed/thoughts.mdenc",
     "journals/betrayed/strange-things.md",
     "journals/betrayed/going-down.md",
     "journals/betrayed/daily-events.md",
