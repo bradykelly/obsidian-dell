@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md"
               }
             }
           },
@@ -179,9 +179,13 @@
   },
   "active": "b02502d2c8c9720f",
   "lastOpenFiles": [
+    "resources/professional/interests.md",
+    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
+    "resources/keys/managers.mdenc",
     "resources/keys/pwd.mdenc",
-    "resources/keys/browsers.mdenc",
     "resources/keys/hints.md",
+    "resources/keys/browsers.mdenc",
+    "Untitled.md",
     "projects/portfolio/json-resume/todo.md",
     "resources/project-ideas/tiny-password-manager.md",
     "projects/portfolio/Comcorp.md",
@@ -203,17 +207,13 @@
     "journals/betrayed/strange-things.md",
     "journals/betrayed/going-down.md",
     "journals/betrayed/daily-events.md",
-    "journals/being-fucked-around",
     "areas/tech/dell-5620/todo.md",
     "areas/household/security/todo.md",
     "areas/household/journal/2024-01-30.md",
     "areas/household/2024-01-31.md",
     "resources/obsidian-templates/fucked-around-journal.md",
-    "resources/professional/work-history/freelancer-2016-04-30-2018-06-30.md",
     "journal-of-trust/strange.md",
     "Welcome.md",
-    "Untitled.md",
-    "resources/professional/interests.md",
     "resources/Untitled.canvas"
   ]
 }
