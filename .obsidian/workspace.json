@@ -31,9 +31,11 @@
             "id": "3f01fca28be9b5e0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "projects/ThinkPad-T440/Notes.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/keys/pwd.mdenc",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/keys/pwd.mdenc",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/keys/pwd.mdenc"
+                "file": "projects/ThinkPad-T440/Notes.md"
               }
             }
           },
@@ -187,7 +189,8 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "projects/Dell-x",
+    "projects/ThinkPad-T440/Notes.md",
+    "projects/ThinkPad-T440",
     "resources/professional/work-history/freelancer-a.md",
     "projects/portfolio/Comcorp.md",
     "areas/work/freelance-services.md",
@@ -214,7 +217,6 @@
     "areas/writing/articles",
     "areas/writing",
     "areas/tech/being-fucked-around/daily-journal.md",
-    "areas/tech/being-fucked-around",
     "areas/household/shopping/2020-02-15.md",
     "journals/being-fucked-around/daily-journal.md",
     "journals/betrayed/strange-things.md",
