@@ -21,16 +21,24 @@
             "id": "b02502d2c8c9720f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-file-content-view",
               "state": {
-                "file": "resources/professional/work-history/freelancer-a.md",
-                "mode": "source",
-                "source": true
+                "file": "resources/keys/pwd.mdenc"
+              }
+            }
+          },
+          {
+            "id": "3f01fca28be9b5e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/professional/work-history/freelancer-a.md",
+                "file": "resources/keys/pwd.mdenc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/professional/work-history/freelancer-a.md",
+                "file": "resources/keys/pwd.mdenc",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/professional/work-history/freelancer-a.md"
+                "file": "resources/keys/pwd.mdenc"
               }
             }
           },
@@ -177,25 +185,27 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "b02502d2c8c9720f",
+  "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "resources/professional/work-history/freelancer-b.md",
+    "projects/Dell-x",
     "resources/professional/work-history/freelancer-a.md",
     "projects/portfolio/Comcorp.md",
-    "projects/portfolio/json-resume/todo.md",
+    "areas/work/freelance-services.md",
+    "projects/job-hunt/leads - todo.md",
+    "resources/keys/pwd.mdenc",
+    "resources/keys/managers.mdenc",
+    "resources/keys/browsers.mdenc",
+    "resources/keys/hints.md",
     "projects/portfolio/json-resume/resources.md",
+    "projects/portfolio/json-resume/todo.md",
+    "resources/professional/work-history/freelancer-b.md",
     "resources/obsidian/templates/work-experience-meta.md",
     "resources/obsidian/templates",
     "resources/obsidian",
     "resources/professional/interests.md",
-    "resources/keys/managers.mdenc",
-    "resources/keys/pwd.mdenc",
-    "resources/keys/hints.md",
-    "resources/keys/browsers.mdenc",
     "Untitled.md",
     "resources/project-ideas/tiny-password-manager.md",
     "resources/project-ideas/README from XML.md",
-    "projects/job-hunt/leads - todo.md",
     "projects/job-hunt",
     "projects/battery-charger/basics.md",
     "projects/battery-charger",
@@ -213,8 +223,6 @@
     "areas/tech/dell-5620/todo.md",
     "areas/household/security/todo.md",
     "areas/household/journal/2024-01-30.md",
-    "areas/household/2024-01-31.md",
-    "resources/obsidian-templates/fucked-around-journal.md",
     "resources/Untitled.canvas"
   ]
 }
