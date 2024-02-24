@@ -1,6 +1,5 @@
 # Lenovo ThinkPad T440 i5 (4th GEN) 
 
-- **Model**: 20B7SOJFOL
 - **Processor**: Intel Core i5-4300U 1.90GHz
 - **Memory**: 8GB DDR3 RAM
 - **Hard Drive**: 1 TB Hard Drive
@@ -8,3 +7,4 @@
 - **Software**: Windows 10 Professional (64-Bit)
 - **Ports**: 2 x USB 3.0, Mini DisplayPort, VGA, RJ-45, SD Card Reader, Smart Card Reader
 - **Connections**: Wifi, Bluetooth, Webcamera
+- **Model**: 20B7SOJFOL
