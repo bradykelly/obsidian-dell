@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md"
+                "file": "projects/ThinkPad-T440/Notes.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "resources/keys/pwd.mdenc",
     "projects/ThinkPad-T440/Advert.md",
+    "resources/keys/pwd.mdenc",
     "projects/ThinkPad-T440/Notes.md",
     "projects/ThinkPad-T440",
     "resources/professional/work-history/freelancer-a.md",
