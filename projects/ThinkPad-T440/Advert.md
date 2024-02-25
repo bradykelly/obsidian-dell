@@ -1,4 +1,4 @@
-# Lenovo ThinkPad T440 i5 (4th GEN) 
+# Lenovo ThinkPad T440 Laptop i5 (4th GEN) 
 
 - Processor: Intel Core i5-4300U 1.90GHz
 - Memory: 8GB DDR3 RAM
