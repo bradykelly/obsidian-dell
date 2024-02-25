@@ -1,6 +1,6 @@
-# Lenovo ThinkPad T440 Laptop i5 (4th GEN) 
+# Lenovo ThinkPad T440 Laptop
 
-- Processor: Intel Core i5-4300U 1.90GHz
+- Processor: Intel Core i5-4300U 4th Gen 1.90GHz
 - Memory: 8GB DDR3 RAM
 - Hard Drive: 1 TB Hard Drive
 - Display: Intel HD Graphics 1GB 1366 x 768 14" Anti-Glare
