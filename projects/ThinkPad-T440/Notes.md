@@ -4,5 +4,5 @@ Ads On:
 
 Facebook
 GumTree
-BidOeBuy/BobShop
+BidOeBuy/BobShop *Can't create collection only*
 
