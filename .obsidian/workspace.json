@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md",
+                "file": "areas/writing/articles/Custom Distro for WSL.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md",
+                "file": "areas/writing/articles/Custom Distro for WSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md",
+                "file": "areas/writing/articles/Custom Distro for WSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ThinkPad-T440/Advert.md"
+                "file": "areas/writing/articles/Custom Distro for WSL.md"
               }
             }
           },
@@ -189,17 +189,19 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "projects/ThinkPad-T440/Notes.md",
-    "projects/ThinkPad-T440/Advert.md",
+    "areas/project-ideas/logging api for frontend apps.md",
+    "areas/writing/articles/Custom Distro for WSL.md",
     "resources/keys/pwd.mdenc",
+    "resources/keys/managers.mdenc",
+    "resources/keys/hints.md",
+    "resources/keys/browsers.mdenc",
+    "projects/ThinkPad-T440/Advert.md",
+    "projects/ThinkPad-T440/Notes.md",
     "projects/ThinkPad-T440",
     "resources/professional/work-history/freelancer-a.md",
     "projects/portfolio/Comcorp.md",
     "areas/work/freelance-services.md",
     "projects/job-hunt/leads - todo.md",
-    "resources/keys/managers.mdenc",
-    "resources/keys/browsers.mdenc",
-    "resources/keys/hints.md",
     "projects/portfolio/json-resume/resources.md",
     "projects/portfolio/json-resume/todo.md",
     "resources/professional/work-history/freelancer-b.md",
@@ -208,8 +210,8 @@
     "resources/obsidian",
     "resources/professional/interests.md",
     "Untitled.md",
-    "resources/project-ideas/tiny-password-manager.md",
-    "resources/project-ideas/README from XML.md",
+    "areas/project-ideas/tiny-password-manager.md",
+    "areas/project-ideas/README from XML.md",
     "projects/job-hunt",
     "projects/battery-charger/basics.md",
     "projects/battery-charger",
@@ -223,7 +225,6 @@
     "journals/betrayed/strange-things.md",
     "journals/betrayed/going-down.md",
     "journals/betrayed/daily-events.md",
-    "areas/tech/dell-5620/todo.md",
     "resources/Untitled.canvas"
   ]
 }
