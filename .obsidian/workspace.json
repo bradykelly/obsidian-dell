@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/writing/articles/Custom Distro for WSL.md",
+                "file": "areas/project-ideas/ahk script to enter master pwd.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/writing/articles/Custom Distro for WSL.md",
+                "file": "areas/project-ideas/ahk script to enter master pwd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/writing/articles/Custom Distro for WSL.md",
+                "file": "areas/project-ideas/ahk script to enter master pwd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/writing/articles/Custom Distro for WSL.md"
+                "file": "areas/project-ideas/ahk script to enter master pwd.md"
               }
             }
           },
@@ -189,9 +189,10 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "areas/project-ideas/logging api for frontend apps.md",
-    "areas/writing/articles/Custom Distro for WSL.md",
     "resources/keys/pwd.mdenc",
+    "areas/project-ideas/ahk script to enter master pwd.md",
+    "areas/writing/articles/Custom Distro for WSL.md",
+    "areas/project-ideas/logging api for frontend apps.md",
     "resources/keys/managers.mdenc",
     "resources/keys/hints.md",
     "resources/keys/browsers.mdenc",
@@ -223,8 +224,6 @@
     "areas/household/shopping/2020-02-15.md",
     "journals/being-fucked-around/daily-journal.md",
     "journals/betrayed/strange-things.md",
-    "journals/betrayed/going-down.md",
-    "journals/betrayed/daily-events.md",
     "resources/Untitled.canvas"
   ]
 }
