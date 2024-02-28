@@ -1,0 +1,3 @@
+PNPM stands for Performant NPM, a more advanced solution with much better performance than the well known and widely used Node Package Manager (NPM). It is an open-sourced and MIT licensed package manager for Node, and, ironically, installed using NPM.
+
+PNPM offers huge improvements in, mainly, installation time and disk space usage, and can perform a package installation for a full project sometimes up to ten times faster than NPM.

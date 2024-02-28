@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/writing/articles/use pnpm.md",
+                "file": "areas/writing/articles/PNPM/Why use PNPM.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/writing/articles/use pnpm.md",
+                "file": "areas/writing/articles/PNPM/Why use PNPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/writing/articles/use pnpm.md",
+                "file": "areas/writing/articles/PNPM/Why use PNPM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/writing/articles/use pnpm.md"
+                "file": "areas/writing/articles/PNPM/Why use PNPM.md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "areas/project-ideas/crawling.md",
     "areas/writing/articles/use pnpm.md",
+    "areas/writing/articles/PNPM/Why use PNPM.md",
+    "areas/writing/articles/PNPM",
+    "areas/project-ideas/crawling.md",
     "areas/project-ideas/ssgs.md",
     "Pasted image 20240228123433.png",
     "areas/project-ideas/ahk script to enter master pwd.md",
@@ -222,10 +224,8 @@
     "areas/project-ideas/tiny-password-manager.md",
     "areas/project-ideas/README from XML.md",
     "projects/job-hunt",
-    "projects/battery-charger/basics.md",
     "projects/battery-charger",
     "areas/writing/articles",
-    "areas/writing",
     "resources/Untitled.canvas"
   ]
 }
