@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md",
+                "file": "areas/writing/articles/overview of microfrontends.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md",
+                "file": "areas/writing/articles/overview of microfrontends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md",
+                "file": "areas/writing/articles/overview of microfrontends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md"
+                "file": "areas/writing/articles/overview of microfrontends.md"
               }
             }
           },
@@ -189,7 +189,10 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
+    "areas/writing/articles/Sales outlets becoming specoalists and carrying used goods.md",
+    "areas/writing/articles/overview of microfrontends.md",
     "resources/keys/pwd.mdenc",
+    "areas/project-ideas/rasberry pi slack server.md",
     "areas/project-ideas/ahk script to enter master pwd.md",
     "areas/writing/articles/Custom Distro for WSL.md",
     "areas/project-ideas/logging api for frontend apps.md",
@@ -222,8 +225,6 @@
     "areas/writing",
     "areas/tech/being-fucked-around/daily-journal.md",
     "areas/household/shopping/2020-02-15.md",
-    "journals/being-fucked-around/daily-journal.md",
-    "journals/betrayed/strange-things.md",
     "resources/Untitled.canvas"
   ]
 }
