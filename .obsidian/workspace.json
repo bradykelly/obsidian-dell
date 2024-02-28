@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/writing/articles/overview of microfrontends.md",
+                "file": "areas/project-ideas/ahk script to enter master pwd.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/writing/articles/overview of microfrontends.md",
+                "file": "areas/project-ideas/ahk script to enter master pwd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/writing/articles/overview of microfrontends.md",
+                "file": "areas/project-ideas/ahk script to enter master pwd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/writing/articles/overview of microfrontends.md"
+                "file": "areas/project-ideas/ahk script to enter master pwd.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "areas/writing/articles/Sales outlets becoming specoalists and carrying used goods.md",
+    "areas/project-ideas/integrate vuepress and obsisian.md",
     "areas/writing/articles/overview of microfrontends.md",
+    "areas/writing/articles/Sales outlets becoming specoalists and carrying used goods.md",
     "resources/keys/pwd.mdenc",
     "areas/project-ideas/rasberry pi slack server.md",
     "areas/project-ideas/ahk script to enter master pwd.md",
@@ -224,7 +225,6 @@
     "areas/writing/articles",
     "areas/writing",
     "areas/tech/being-fucked-around/daily-journal.md",
-    "areas/household/shopping/2020-02-15.md",
     "resources/Untitled.canvas"
   ]
 }

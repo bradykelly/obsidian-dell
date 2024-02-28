@@ -1,0 +1,1 @@
+Start with generating symlinks to obsidian files in docs folder
