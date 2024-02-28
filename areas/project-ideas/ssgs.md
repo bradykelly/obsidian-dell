@@ -16,7 +16,7 @@ Generate temporary code - 0.05s
 Bootstrap finish - 0.7s
 **Error: Cannot find module 'vue-template-compiler'**
 3. Hugo: Great!  Very big and complex though.
-4. Eleventy: 
+4. Eleventy: Nice! Extremely simple, looks well supported
 
 Hosting:
 
