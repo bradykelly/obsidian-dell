@@ -5,3 +5,8 @@ Gridsome
 Cuttlebelle, 
 Docusaurus,
 Qwik
+
+Hosting:
+
+Kinsta
+Vercel?
