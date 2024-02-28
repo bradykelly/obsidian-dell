@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/project-ideas/crawling.md",
+                "file": "areas/writing/articles/use pnpm.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/project-ideas/crawling.md",
+                "file": "areas/writing/articles/use pnpm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/project-ideas/crawling.md",
+                "file": "areas/writing/articles/use pnpm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/project-ideas/crawling.md"
+                "file": "areas/writing/articles/use pnpm.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
-    "areas/writing/articles/use pnpm.md",
     "areas/project-ideas/crawling.md",
+    "areas/writing/articles/use pnpm.md",
     "areas/project-ideas/ssgs.md",
     "Pasted image 20240228123433.png",
     "areas/project-ideas/ahk script to enter master pwd.md",
