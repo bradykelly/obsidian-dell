@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md",
+                "file": "areas/writing/articles/use pnpm.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md",
+                "file": "areas/writing/articles/use pnpm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md",
+                "file": "areas/writing/articles/use pnpm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/project-ideas/ahk script to enter master pwd.md"
+                "file": "areas/writing/articles/use pnpm.md"
               }
             }
           },
@@ -189,12 +189,13 @@
   },
   "active": "3f01fca28be9b5e0",
   "lastOpenFiles": [
+    "areas/project-ideas/ahk script to enter master pwd.md",
+    "areas/writing/articles/use pnpm.md",
     "areas/project-ideas/integrate vuepress and obsisian.md",
     "areas/writing/articles/overview of microfrontends.md",
     "areas/writing/articles/Sales outlets becoming specoalists and carrying used goods.md",
     "resources/keys/pwd.mdenc",
     "areas/project-ideas/rasberry pi slack server.md",
-    "areas/project-ideas/ahk script to enter master pwd.md",
     "areas/writing/articles/Custom Distro for WSL.md",
     "areas/project-ideas/logging api for frontend apps.md",
     "resources/keys/managers.mdenc",
@@ -224,7 +225,6 @@
     "areas/writing/articles/XML Documentation.md",
     "areas/writing/articles",
     "areas/writing",
-    "areas/tech/being-fucked-around/daily-journal.md",
     "resources/Untitled.canvas"
   ]
 }
