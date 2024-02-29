@@ -9,8 +9,8 @@ Eleventy
 Gatsby
 Hugo
 Gridsome
-Cuttlebelle, 
-Docusaurus,
+Cuttlebelle
+Docusaurus
 Qwik
 
 1. VuePress: needs more exploring but lots of deprecated packages
