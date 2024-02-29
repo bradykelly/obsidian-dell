@@ -1,6 +1,6 @@
 {
   "findText": "^(.+)$",
-  "replaceText": "- [ ] $0",
+  "replaceText": "- [ ] $&",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

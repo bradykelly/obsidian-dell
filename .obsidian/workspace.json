@@ -46,8 +46,8 @@
               "type": "markdown",
               "state": {
                 "file": "projects/ssg exploring/candidates.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             }
           }
