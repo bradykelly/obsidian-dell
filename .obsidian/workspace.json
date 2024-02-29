@@ -45,8 +45,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ssg exploring/candidates.md",
-                "mode": "preview",
+                "file": "projects/video editors/Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ssg exploring/candidates.md",
+                "file": "projects/video editors/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ssg exploring/candidates.md",
+                "file": "projects/video editors/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ssg exploring/candidates.md"
+                "file": "projects/video editors/Notes.md"
               }
             }
           },
@@ -201,10 +201,12 @@
   },
   "active": "0a91f1ea37aead6e",
   "lastOpenFiles": [
+    "projects/ssg exploring/candidates.md",
+    "projects/video editors/Notes.md",
+    "projects/video editors",
     "projects/ssg exploring/notes.md",
     "areas/project-ideas/README from XML.md",
     "areas/project-ideas/ssgs.md",
-    "projects/ssg exploring/candidates.md",
     "projects/ThinkPad-T440/Advert.md",
     "projects/ssg exploring/hosting.md",
     "projects/ssg exploring",
@@ -233,11 +235,9 @@
     "projects/job-hunt/leads - todo.md",
     "projects/portfolio/json-resume/resources.md",
     "projects/portfolio/json-resume/todo.md",
-    "resources/professional/work-history/freelancer-b.md",
     "resources/obsidian/templates",
     "resources/obsidian",
     "projects/job-hunt",
-    "projects/battery-charger",
     "resources/Untitled.canvas"
   ]
 }
