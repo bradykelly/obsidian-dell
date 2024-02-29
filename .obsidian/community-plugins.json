@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-wordy",
   "obsidian-tasks-plugin",
-  "cmdr"
+  "cmdr",
+  "obsidian-regex-replace"
 ]
