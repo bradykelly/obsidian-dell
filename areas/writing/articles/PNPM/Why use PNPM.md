@@ -10,6 +10,10 @@ Now PNPM saves large amounts of disk space by creating **hard links** (a variati
 
 The Yarn package manager, another improvement on NPM, also uses a local package cache, but Yarn copies files from the cache to each project. 100 projects, 100 copies of the package again.
 
-PNPM uses a nested `node_modules` structure, which 
+The previous version of NPM, `npm@2` used a nested `node-modules` structure. It was predictable and clean because each package in `node_modules` had its own `node_modules` folder and all its own dependencies specified in its `package.json` file. 
+
+A significant disadvantages of this structure was that packages often created very deep dependency trees, resulting in directory paths that exceeded Windows default maximum path length. Another was that packages were copied into `node_modules` several times when they were required by multiple dependencies.
+
+The current version of NPM, *npm@3*
 
 
