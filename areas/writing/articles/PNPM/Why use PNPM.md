@@ -6,3 +6,5 @@ As an example, running `npm install` for the popular *Tailwind CSS* user interfa
 
 A nearly constant aspect of each project is that Node, other services, and transpilers resolve package imports in code to locations in the project's `node_modules` folder. This means NPM will always download and store every package in this folder. Now PNPM saves large amounts of disk space by creating **hard links** (a variation of a file shortcut) in `node_modules` that point to the global store.
 
+This is evident when switching the package manager for Tailwind CSS to PNPM and running `pnpm install`. The whole operation took 27 seconds and built a `node_modules` hive of 
+
