@@ -14,6 +14,6 @@ The previous version of NPM, `npm@2` used a nested `node-modules` structure. It 
 
 A significant disadvantages of this structure was that packages often created very deep dependency trees, resulting in directory paths that exceeded Windows default maximum path length. Another was that packages were copied into `node_modules` several times when they were required by multiple dependencies.
 
-The current version of NPM, *npm@3*
+The next version of NPM, *npm@3*, addressed this by flattening the `node_modules` structure, with every dependency stored at, or *hoisted to* the root of `node_modules`. Besides this resulting in larger `node_modules`, it also resulted in projects having access to 
 
 
