@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/web factory/Notes.md",
+                "file": "projects/ssg exploring/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/web factory/Notes.md",
+                "file": "projects/ssg exploring/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/web factory/Notes.md",
+                "file": "projects/ssg exploring/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/web factory/Notes.md"
+                "file": "projects/ssg exploring/notes.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "0a91f1ea37aead6e",
   "lastOpenFiles": [
-    "projects/ssg exploring/candidates.md",
     "projects/web factory/Notes.md",
+    "projects/ssg exploring/candidates.md",
     "projects/web factory",
     "projects/video editors/Notes.md",
     "projects/video editors",
