@@ -33,14 +33,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/writing/articles/PNPM/Why use PNPM.md",
+                "file": "areas/project-ideas/ssgs.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb6b6bc65f3f75a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "areas/project-ideas/ssgs.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0a91f1ea37aead6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "areas/project-ideas/ssgs.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/writing/articles/PNPM/Why use PNPM.md",
+                "file": "areas/project-ideas/ssgs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/writing/articles/PNPM/Why use PNPM.md",
+                "file": "areas/project-ideas/ssgs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/writing/articles/PNPM/Why use PNPM.md"
+                "file": "areas/project-ideas/ssgs.md"
               }
             }
           },
@@ -187,22 +211,24 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "3f01fca28be9b5e0",
+  "active": "0a91f1ea37aead6e",
   "lastOpenFiles": [
-    "areas/writing/articles/use pnpm.md",
+    "Untitled 1.md",
+    "areas/project-ideas/ssgs.md",
+    "areas/project-ideas/README from XML.md",
+    "areas/project-ideas/logging api for frontend apps.md",
+    "areas/project-ideas/integrate vuepress and obsisian.md",
     "areas/writing/articles/PNPM/Why use PNPM.md",
+    "areas/writing/articles/use pnpm.md",
     "areas/writing/articles/PNPM",
     "areas/project-ideas/crawling.md",
-    "areas/project-ideas/ssgs.md",
     "Pasted image 20240228123433.png",
     "areas/project-ideas/ahk script to enter master pwd.md",
-    "areas/project-ideas/integrate vuepress and obsisian.md",
     "areas/writing/articles/overview of microfrontends.md",
     "areas/writing/articles/Sales outlets becoming specoalists and carrying used goods.md",
     "resources/keys/pwd.mdenc",
     "areas/project-ideas/rasberry pi slack server.md",
     "areas/writing/articles/Custom Distro for WSL.md",
-    "areas/project-ideas/logging api for frontend apps.md",
     "resources/keys/managers.mdenc",
     "resources/keys/hints.md",
     "resources/keys/browsers.mdenc",
@@ -221,8 +247,6 @@
     "resources/obsidian",
     "resources/professional/interests.md",
     "Untitled.md",
-    "areas/project-ideas/tiny-password-manager.md",
-    "areas/project-ideas/README from XML.md",
     "projects/job-hunt",
     "projects/battery-charger",
     "areas/writing/articles",
