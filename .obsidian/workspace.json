@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ssg exploring/notes.md",
+                "file": "areas/household/Proof of Residence.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ssg exploring/notes.md",
+                "file": "areas/household/Proof of Residence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ssg exploring/notes.md",
+                "file": "areas/household/Proof of Residence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ssg exploring/notes.md"
+                "file": "areas/household/Proof of Residence.md"
               }
             }
           },
@@ -201,12 +201,13 @@
   },
   "active": "0a91f1ea37aead6e",
   "lastOpenFiles": [
+    "projects/ssg exploring/notes.md",
+    "areas/household/Proof of Residence.md",
     "projects/web factory/Notes.md",
     "projects/ssg exploring/candidates.md",
     "projects/web factory",
     "projects/video editors/Notes.md",
     "projects/video editors",
-    "projects/ssg exploring/notes.md",
     "areas/project-ideas/README from XML.md",
     "areas/project-ideas/ssgs.md",
     "projects/ThinkPad-T440/Advert.md",
@@ -235,7 +236,6 @@
     "projects/portfolio/Comcorp.md",
     "areas/work/freelance-services.md",
     "projects/job-hunt/leads - todo.md",
-    "projects/portfolio/json-resume/resources.md",
     "resources/obsidian/templates",
     "resources/obsidian",
     "resources/Untitled.canvas"
