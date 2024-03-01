@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/household/Proof of Residence.md",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/household/Proof of Residence.md",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/household/Proof of Residence.md",
+                "file": "projects/ThinkPad-T440/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/household/Proof of Residence.md"
+                "file": "projects/ThinkPad-T440/Notes.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "0a91f1ea37aead6e",
   "lastOpenFiles": [
-    "projects/ssg exploring/notes.md",
+    "projects/ThinkPad-T440/Advert.md",
     "areas/household/Proof of Residence.md",
+    "projects/ssg exploring/notes.md",
     "projects/web factory/Notes.md",
     "projects/ssg exploring/candidates.md",
     "projects/web factory",
@@ -210,7 +211,6 @@
     "projects/video editors",
     "areas/project-ideas/README from XML.md",
     "areas/project-ideas/ssgs.md",
-    "projects/ThinkPad-T440/Advert.md",
     "projects/ssg exploring/hosting.md",
     "projects/ssg exploring",
     "Untitled 1.md",
