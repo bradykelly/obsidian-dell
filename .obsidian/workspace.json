@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/training/cpd/LinkedId Suggestions.md",
+                "file": "areas/writing/articles/bad ux/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/training/cpd/LinkedId Suggestions.md",
+                "file": "areas/writing/articles/bad ux/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/training/cpd/LinkedId Suggestions.md",
+                "file": "areas/writing/articles/bad ux/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/training/cpd/LinkedId Suggestions.md"
+                "file": "areas/writing/articles/bad ux/Notes.md"
               }
             }
           },
@@ -201,8 +201,11 @@
   },
   "active": "0a91f1ea37aead6e",
   "lastOpenFiles": [
-    "areas/writing/articles/bad ux/Notes.md",
+    "Pasted image 20240302082533.png",
+    "Pasted image 20240302082258.png",
+    "Pasted image 20240302082138.png",
     "areas/training/cpd/LinkedId Suggestions.md",
+    "areas/writing/articles/bad ux/Notes.md",
     "areas/training/cpd",
     "areas/training",
     "projects/ThinkPad-T440/Notes.md",
@@ -237,7 +240,6 @@
     "resources/keys/hints.md",
     "resources/keys/browsers.mdenc",
     "resources/professional/work-history/freelancer-a.md",
-    "projects/portfolio/Comcorp.md",
     "resources/Untitled.canvas"
   ]
 }
