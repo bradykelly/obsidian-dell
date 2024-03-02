@@ -1,0 +1,1 @@
+- Windows event viewer doesn't adjust filter controls to manually edited query and vice versa.
