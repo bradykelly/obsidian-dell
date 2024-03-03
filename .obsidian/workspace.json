@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Paid/Prime Opinion.md",
+                "file": "areas/writing/articles/bad ux/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Paid/Prime Opinion.md",
+                "file": "areas/writing/articles/bad ux/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Paid/Prime Opinion.md",
+                "file": "areas/writing/articles/bad ux/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Paid/Prime Opinion.md"
+                "file": "areas/writing/articles/bad ux/Notes.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "0a91f1ea37aead6e",
   "lastOpenFiles": [
-    "projects/Untitled.md",
+    "Pasted image 20240303135512.png",
     "projects/Paid/Prime Opinion.md",
+    "projects/Untitled.md",
     "projects/Paid",
     "areas/writing/articles/bad ux/Notes.md",
     "Pasted image 20240302082533.png",
@@ -240,7 +241,6 @@
     "areas/project-ideas/rasberry pi slack server.md",
     "areas/writing/articles/Custom Distro for WSL.md",
     "resources/keys/managers.mdenc",
-    "resources/keys/hints.md",
     "resources/Untitled.canvas"
   ]
 }

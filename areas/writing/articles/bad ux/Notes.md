@@ -5,3 +5,4 @@
 		- Address 3 just vanishes on Physical Address
 	- Hoplessly bad list of occupations/skills:![[Pasted image 20240302082533.png]]
 		- What is the difference between Developer Programmer (what the hell is that even?), Programmer Analyst, and Software Developer
+- Microsoft when I'm trying to sign into outlook.com: ![[Pasted image 20240303135512.png]]
