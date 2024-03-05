@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md",
+                "file": "areas/project-ideas/astro types website.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md",
+                "file": "areas/project-ideas/astro types website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md",
+                "file": "areas/project-ideas/astro types website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md"
+                "file": "areas/project-ideas/astro types website.md"
               }
             }
           },
@@ -213,8 +213,9 @@
   },
   "active": "892b505b38bfba2f",
   "lastOpenFiles": [
-    "pwd.md",
     "projects/portfolio/astro/pwd.md",
+    "areas/project-ideas/astro types website.md",
+    "pwd.md",
     "projects/portfolio/astro",
     "areas/training/linkedin/today.md",
     "areas/writing/articles/bad ux/Notes.md",
@@ -253,7 +254,6 @@
     "Pasted image 20240228123433.png",
     "areas/project-ideas/ahk script to enter master pwd.md",
     "areas/writing/articles/overview of microfrontends.md",
-    "areas/writing/articles/Sales outlets becoming specoalists and carrying used goods.md",
     "resources/Untitled.canvas"
   ]
 }

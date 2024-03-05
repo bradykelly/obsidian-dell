@@ -1,0 +1,1 @@
+- simple 1 pager for json schema to astro schema types
