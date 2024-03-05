@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pwd.md",
+                "file": "projects/portfolio/astro/pwd.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwd.md",
+                "file": "projects/portfolio/astro/pwd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwd.md",
+                "file": "projects/portfolio/astro/pwd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwd.md"
+                "file": "projects/portfolio/astro/pwd.md"
               }
             }
           },
@@ -213,8 +213,10 @@
   },
   "active": "892b505b38bfba2f",
   "lastOpenFiles": [
-    "areas/training/linkedin/today.md",
     "pwd.md",
+    "projects/portfolio/astro/pwd.md",
+    "projects/portfolio/astro",
+    "areas/training/linkedin/today.md",
     "areas/writing/articles/bad ux/Notes.md",
     "areas/training/linkedin",
     "Pasted image 20240303135512.png",
@@ -252,8 +254,6 @@
     "areas/project-ideas/ahk script to enter master pwd.md",
     "areas/writing/articles/overview of microfrontends.md",
     "areas/writing/articles/Sales outlets becoming specoalists and carrying used goods.md",
-    "resources/keys/pwd.mdenc",
-    "areas/project-ideas/rasberry pi slack server.md",
     "resources/Untitled.canvas"
   ]
 }
