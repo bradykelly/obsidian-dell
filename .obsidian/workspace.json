@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/project-ideas/astro types website.md",
+                "file": "projects/portfolio/astro/pwd.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/project-ideas/astro types website.md",
+                "file": "projects/portfolio/astro/pwd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/project-ideas/astro types website.md",
+                "file": "projects/portfolio/astro/pwd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/project-ideas/astro types website.md"
+                "file": "projects/portfolio/astro/pwd.md"
               }
             }
           },
@@ -213,8 +213,8 @@
   },
   "active": "892b505b38bfba2f",
   "lastOpenFiles": [
-    "projects/portfolio/astro/pwd.md",
     "areas/project-ideas/astro types website.md",
+    "projects/portfolio/astro/pwd.md",
     "pwd.md",
     "projects/portfolio/astro",
     "areas/training/linkedin/today.md",
