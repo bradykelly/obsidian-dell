@@ -15,3 +15,13 @@ git config --global alias.bb !better-branch.sh # or actual bash script*
 
 ### Conditional Configs
 
+```bash
+[user]
+    email = brady@bradykelly.net
+    name = Brady Kelly
+...
+[includeIf "gitdir:~/projects/work/"]
+	path = ~/projects/work/.gitconfig
+[includeIf "gitdir:~/projects/oss/"]
+	path = ~/projects/oss/.gitconfig
+```
