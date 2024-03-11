@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md",
+                "file": "projects/sonarqube-azure/create database.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md",
+                "file": "projects/sonarqube-azure/create database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md",
+                "file": "projects/sonarqube-azure/create database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/portfolio/astro/pwd.md"
+                "file": "projects/sonarqube-azure/create database.md"
               }
             }
           },
@@ -213,12 +213,15 @@
   },
   "active": "892b505b38bfba2f",
   "lastOpenFiles": [
-    "areas/project-ideas/astro types website.md",
+    "projects/sonarqube-azure/article.md",
+    "projects/sonarqube-azure/create database.md",
+    "areas/writing/articles/bad ux/Notes.md",
+    "projects/sonarqube-azure",
     "projects/portfolio/astro/pwd.md",
+    "areas/project-ideas/astro types website.md",
     "pwd.md",
     "projects/portfolio/astro",
     "areas/training/linkedin/today.md",
-    "areas/writing/articles/bad ux/Notes.md",
     "areas/training/linkedin",
     "Pasted image 20240303135512.png",
     "projects/Paid/Prime Opinion.md",
@@ -249,11 +252,8 @@
     "areas/project-ideas/integrate vuepress and obsisian.md",
     "areas/writing/articles/PNPM/Why use PNPM.md",
     "areas/writing/articles/use pnpm.md",
-    "areas/writing/articles/PNPM",
     "areas/project-ideas/crawling.md",
     "Pasted image 20240228123433.png",
-    "areas/project-ideas/ahk script to enter master pwd.md",
-    "areas/writing/articles/overview of microfrontends.md",
     "resources/Untitled.canvas"
   ]
 }
