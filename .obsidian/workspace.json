@@ -69,9 +69,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "areas/writing/articles/So you think you know Git.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "areas/writing/articles/So you think you know Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "areas/writing/articles/So you think you know Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "areas/writing/articles/So you think you know Git.md"
               }
             }
           },
@@ -225,8 +225,9 @@
   },
   "active": "7c85ddc1a0304057",
   "lastOpenFiles": [
-    "projects/sonarqube-azure/create database.md",
     "Untitled 2.md",
+    "areas/writing/articles/So you think you know Git.md",
+    "projects/sonarqube-azure/create database.md",
     "projects/sonarqube-azure/article.md",
     "areas/writing/articles/bad ux/Notes.md",
     "projects/sonarqube-azure",
@@ -264,7 +265,6 @@
     "areas/project-ideas/logging api for frontend apps.md",
     "areas/project-ideas/integrate vuepress and obsisian.md",
     "areas/writing/articles/PNPM/Why use PNPM.md",
-    "areas/writing/articles/use pnpm.md",
     "Pasted image 20240228123433.png",
     "resources/Untitled.canvas"
   ]
