@@ -41,3 +41,22 @@ git log -L 15,26:path/to/file
 git log -L :File:path/to/file # Will try narrow output to 'File' id in source
 ```
 
+## Git blame in a GUI
+
+```bash
+git blame -w -C [-C [-C]]
+```
+
+`-w` Ignore whitespace
+`-C` Detect lines moved or copied in the same commit
+`-C -C` as above, but also include the commit that created the file
+`-C -C -C` include *any* commit
+
+### The Pickaxe
+
+```bash
+git log -S <string-expression> 
+```
+
+
+
