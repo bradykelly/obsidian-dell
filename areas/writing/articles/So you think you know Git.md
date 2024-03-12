@@ -26,4 +26,18 @@ git config --global alias.bb !better-branch.sh # or actual bash script*
 	path = ~/projects/oss/.gitconfig
 ```
 
+## Line ranges
+
+### Git blame, just a `L`ittle
+
+```bash
+git blame -L 15,26 path/to/file
+```
+
+### Also with `git log`
+
+```bash
+git log -L 15,26:path/to/file
+git log -L :File:path/to/file # Will try narrow output to 'File' id in source
+```
 
