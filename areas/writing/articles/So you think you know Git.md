@@ -52,11 +52,14 @@ git blame -w -C [-C [-C]]
 `-C -C` as above, but also include the commit that created the file
 `-C -C -C` include *any* commit
 
-### The Pickaxe
+## The Pickaxe
 
 ```bash
-git log -S <string-expression> 
+git log -S <string-expression> -p
 ```
+
+Filters log for string expression that git-grep might not find because it was removed from codebase.
+
 
 
 
