@@ -57,26 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/sonarqube-azure/create database.md",
+                "file": "areas/writing/articles/So you think you know Git.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "7c85ddc1a0304057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "areas/project-ideas/whatscribe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 314.5
   },
   "right": {
     "id": "eb1f7e2ec5c39db9",
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/project-ideas/whatscribe.md",
+                "file": "areas/writing/articles/So you think you know Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/project-ideas/whatscribe.md",
+                "file": "areas/writing/articles/So you think you know Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/project-ideas/whatscribe.md"
+                "file": "areas/writing/articles/So you think you know Git.md"
               }
             }
           },
@@ -223,28 +211,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "7c85ddc1a0304057",
+  "active": "892b505b38bfba2f",
   "lastOpenFiles": [
-    "areas/writing/articles/So you think you know Git.md",
-    "areas/project-ideas/whatscribe.md",
-    "Untitled 2.md",
+    "resources/keys/pwd.mdenc",
     "projects/sonarqube-azure/create database.md",
+    "pwd.md",
+    "Pasted image 20240228123433.png",
+    "Pasted image 20240303135512.png",
+    "Pasted image 20240302082533.png",
+    "Pasted image 20240302082258.png",
+    "Pasted image 20240302082138.png",
+    "resources/smut/Untitled.md",
+    "resources/smut",
+    "Welcome.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "areas/project-ideas/whatscribe.md",
+    "areas/writing/articles/So you think you know Git.md",
     "projects/sonarqube-azure/article.md",
     "areas/writing/articles/bad ux/Notes.md",
     "projects/sonarqube-azure",
     "projects/portfolio/astro/pwd.md",
     "areas/project-ideas/astro types website.md",
-    "pwd.md",
     "projects/portfolio/astro",
     "areas/training/linkedin/today.md",
     "areas/training/linkedin",
-    "Pasted image 20240303135512.png",
     "projects/Paid/Prime Opinion.md",
     "projects/Untitled.md",
     "projects/Paid",
-    "Pasted image 20240302082533.png",
-    "Pasted image 20240302082258.png",
-    "Pasted image 20240302082138.png",
     "areas/training/cpd/LinkedId Suggestions.md",
     "areas/training/cpd",
     "areas/training",
@@ -260,12 +254,6 @@
     "projects/video editors",
     "areas/project-ideas/README from XML.md",
     "areas/project-ideas/ssgs.md",
-    "projects/ssg exploring/hosting.md",
-    "projects/ssg exploring",
-    "Untitled 1.md",
-    "areas/project-ideas/logging api for frontend apps.md",
-    "areas/project-ideas/integrate vuepress and obsisian.md",
-    "Pasted image 20240228123433.png",
     "resources/Untitled.canvas"
   ]
 }
