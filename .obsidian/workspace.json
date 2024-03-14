@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/writing/articles/So you think you know Git.md",
+                "file": "areas/household/security/todo.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/writing/articles/So you think you know Git.md",
+                "file": "areas/household/security/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/writing/articles/So you think you know Git.md",
+                "file": "areas/household/security/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/writing/articles/So you think you know Git.md"
+                "file": "areas/household/security/todo.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "892b505b38bfba2f",
   "lastOpenFiles": [
+    "areas/writing/articles/So you think you know Git.md",
     "Pasted image 20240312130603.png",
     "resources/keys/pwd.mdenc",
     "projects/sonarqube-azure/create database.md",
@@ -228,7 +229,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "areas/project-ideas/whatscribe.md",
-    "areas/writing/articles/So you think you know Git.md",
     "projects/sonarqube-azure/article.md",
     "areas/writing/articles/bad ux/Notes.md",
     "projects/sonarqube-azure",
