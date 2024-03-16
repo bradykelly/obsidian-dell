@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/project-ideas/frontend/convert json schema to content collection.md",
+                "file": "areas/writing/articles/Github and SSH on Windows.md",
                 "mode": "source",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "areas/project-ideas/frontend/convert json schema to content collection.md",
+                "file": "areas/writing/articles/Github and SSH on Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "areas/project-ideas/frontend/convert json schema to content collection.md",
+                "file": "areas/writing/articles/Github and SSH on Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "areas/project-ideas/frontend/convert json schema to content collection.md"
+                "file": "areas/writing/articles/Github and SSH on Windows.md"
               }
             }
           },
@@ -213,8 +213,9 @@
   },
   "active": "892b505b38bfba2f",
   "lastOpenFiles": [
-    "areas/household/security/todo.md",
     "areas/project-ideas/frontend/convert json schema to content collection.md",
+    "areas/writing/articles/Github and SSH on Windows.md",
+    "areas/household/security/todo.md",
     "areas/project-ideas/frontend",
     "areas/writing/articles/So you think you know Git.md",
     "Pasted image 20240312130603.png",
@@ -254,7 +255,6 @@
     "projects/web factory/Notes.md",
     "projects/ssg exploring/candidates.md",
     "projects/video editors/Notes.md",
-    "areas/project-ideas/README from XML.md",
     "resources/Untitled.canvas"
   ]
 }
