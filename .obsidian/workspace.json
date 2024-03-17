@@ -28,7 +28,16 @@
             }
           },
           {
-            "id": "3f01fca28be9b5e0",
+    "id": "3f01fca28be9b5e0",
+    "id": "ff65e9275961f62e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22c81fbc7c4ec17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d762a1810f3a009",
             "type": "leaf",
             "state": {
               "type": "markdown",
