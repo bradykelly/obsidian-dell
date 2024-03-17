@@ -1,4 +1,0 @@
-## Todo
-
-- [ ] Review other templates
-- [ ] 

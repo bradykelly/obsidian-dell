@@ -1,0 +1,8 @@
+- Windows event viewer doesn't adjust filter controls to manually edited query and vice versa.
+- IITPSA
+	- Contact details - Address is empty, but click on update and suddenly street number is required
+	- Hopelessly badly design address fields: ![[Pasted image 20240302082258.png]]
+		- Address 3 just vanishes on Physical Address
+	- Hoplessly bad list of occupations/skills:![[Pasted image 20240302082533.png]]
+		- What is the difference between Developer Programmer (what the hell is that even?), Programmer Analyst, and Software Developer
+- Microsoft when I'm trying to sign into outlook.com: ![[Pasted image 20240303135512.png]]

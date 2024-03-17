@@ -1,0 +1,12 @@
+- [x] Vuepress ✅ 2024-02-29
+- [ ] Brunch
+- [ ] Astro
+- [ ] Nextjs
+- [ ] Nuxt
+- [x] Eleventy ✅ 2024-02-29
+- [ ] Gatsby
+- [x] Hugo ✅ 2024-02-29
+- [x] Gridsome ✅ 2024-02-29
+- [ ] Cuttlebelle
+- [ ] Docusaurus
+- [ ] Qwik
