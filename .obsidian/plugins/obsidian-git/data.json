@@ -20,11 +20,11 @@
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
+  "refreshSourceControlTimer": 30000,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "..\\.git",
+  "gitDir": "",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,
