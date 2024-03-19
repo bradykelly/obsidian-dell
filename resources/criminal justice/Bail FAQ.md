@@ -7,6 +7,6 @@ modification date: <% tp.file.last_modified_date("HH-mm-ss") %>
 tags:
 - law/criminal-justice
 - law/bail
--  
-	- 
 ---
+
+# <% tp.frontmatter.
