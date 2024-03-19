@@ -17,4 +17,4 @@
 </div>
 ```
 
-- [ ] 🔺⏳ 2024-03-19 Post on networks
+- [ ] 🔺⏳ 2024-03-19 Post on networks - No metadata for sha sum
